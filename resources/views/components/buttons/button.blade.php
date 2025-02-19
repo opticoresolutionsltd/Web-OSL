@@ -1,0 +1,1 @@
+<button type="{{$attributes->get('type')}}" class="{{$attributes->get('class')}}" @if($attributes->get('data-collapse-toggle')) data-collapse-toggle="{{$attributes->get('data-collapse-toggle')}}" @endif aria-controls="{{$attributes->get('aria-controls')}}" aria-expanded="{{$attributes->get('aria-expanded')}}">{{$slot}}</button>

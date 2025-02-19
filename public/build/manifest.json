@@ -1,0 +1,97 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-BbQ-SCof.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/home/app.css": {
+    "file": "assets/app-B1V8L1KQ.css",
+    "src": "resources/css/home/app.css",
+    "isEntry": true
+  },
+  "resources/css/services/app.css": {
+    "file": "assets/app-BF5mjT6y.css",
+    "src": "resources/css/services/app.css",
+    "isEntry": true
+  },
+  "resources/images/4280794.jpg": {
+    "file": "assets/4280794-DKDbrX_C.jpg",
+    "src": "resources/images/4280794.jpg"
+  },
+  "resources/images/4422913.jpg": {
+    "file": "assets/4422913-B_vLOdxw.jpg",
+    "src": "resources/images/4422913.jpg"
+  },
+  "resources/images/59361.jpg": {
+    "file": "assets/59361-BWK31-hF.jpg",
+    "src": "resources/images/59361.jpg"
+  },
+  "resources/images/favicon/Opticore Solutions Ltd.ico": {
+    "file": "assets/Opticore Solutions Ltd-CAhtHaOw.ico",
+    "src": "resources/images/favicon/Opticore Solutions Ltd.ico"
+  },
+  "resources/images/five.jpg": {
+    "file": "assets/five-5n8_uTzp.jpg",
+    "src": "resources/images/five.jpg"
+  },
+  "resources/images/g.png": {
+    "file": "assets/g-yiT-CIR3.png",
+    "src": "resources/images/g.png"
+  },
+  "resources/images/logo o.png": {
+    "file": "assets/logo o-CcXdVNXf.png",
+    "src": "resources/images/logo o.png"
+  },
+  "resources/images/logo/Opticore-Logo(1).png": {
+    "file": "assets/Opticore-Logo(1)-udTpPdhm.png",
+    "src": "resources/images/logo/Opticore-Logo(1).png"
+  },
+  "resources/images/logo/customers/3m.svg": {
+    "file": "assets/3m-DtohWEJx.svg",
+    "src": "resources/images/logo/customers/3m.svg"
+  },
+  "resources/images/logo/customers/barstool-store.svg": {
+    "file": "assets/barstool-store-B1wd-oEt.svg",
+    "src": "resources/images/logo/customers/barstool-store.svg"
+  },
+  "resources/images/logo/customers/budweiser.svg": {
+    "file": "assets/budweiser-avMGXuo2.svg",
+    "src": "resources/images/logo/customers/budweiser.svg"
+  },
+  "resources/images/logo/customers/buzzfeed.svg": {
+    "file": "assets/buzzfeed-jDPk1yFc.svg",
+    "src": "resources/images/logo/customers/buzzfeed.svg"
+  },
+  "resources/images/logo/customers/forbes.svg": {
+    "file": "assets/forbes-CfYywVor.svg",
+    "src": "resources/images/logo/customers/forbes.svg"
+  },
+  "resources/images/logo/customers/macys.svg": {
+    "file": "assets/macys-D3_Tt1up.svg",
+    "src": "resources/images/logo/customers/macys.svg"
+  },
+  "resources/images/logo/customers/menshealth.svg": {
+    "file": "assets/menshealth-CREJheFH.svg",
+    "src": "resources/images/logo/customers/menshealth.svg"
+  },
+  "resources/images/logo/customers/mrbeast.svg": {
+    "file": "assets/mrbeast-BSeKl_ZX.svg",
+    "src": "resources/images/logo/customers/mrbeast.svg"
+  },
+  "resources/images/team.jpg": {
+    "file": "assets/team-adxniE6_.jpg",
+    "src": "resources/images/team.jpg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-s7Tv5rlc.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/home/app.js": {
+    "file": "assets/app-Bk_y-yLA.js",
+    "name": "app",
+    "src": "resources/js/home/app.js",
+    "isEntry": true
+  }
+}
