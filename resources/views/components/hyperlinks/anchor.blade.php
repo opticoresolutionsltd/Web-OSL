@@ -1,1 +1,1 @@
-<a href="{{$attributes->get('href')}}" class="{{$attributes->get('class')}}" aria-current="{{$attributes->get('aria-current')}}">{{$slot}}</a>
+<a href="{{$attributes->get('href')}}" class="{{$attributes->get('class')}}" @if($attributes->get('aria-current')) aria-current="{{$attributes->get('aria-current')}}" @endif>{{$slot}}</a>
