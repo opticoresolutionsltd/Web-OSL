@@ -1,7 +1,7 @@
-<section class="container mx-auto lg:px-52">
+<section class="container mx-auto px-8 sm:px-24 md:px-36 lg:px-48">
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/59361.jpg')}}
+            {{Vite::asset('resources/images/Affiliate Marketing.png')}}
         </x-slot>
         <x-slot name="heading">
             Affiliate Marketing
@@ -13,7 +13,7 @@
 
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4280794.jpg')}}
+            {{Vite::asset('resources/images/E-mail Marketing.png')}}
         </x-slot>
         <x-slot name="heading">
             Email Marketing

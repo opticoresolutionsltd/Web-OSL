@@ -1,4 +1,4 @@
-<section class="container mx-auto lg:px-52">
+<section class="container mx-auto lg:px-48">
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/59361.jpg')}}
