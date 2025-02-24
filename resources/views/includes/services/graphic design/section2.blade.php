@@ -1,5 +1,4 @@
 <section class="container mx-auto lg:px-52">
-    <!-- Service Row 1 -->
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/59361.jpg')}}
@@ -27,8 +26,6 @@
             At Opticore, we design logos that capture your brand’s essence and leave a lasting impression. Let us craft an identity that sets you apart and builds trust with your audience.
         </x-slot>
     </x-services.sectionRToL>
-    <!-- Service Row 2 -->
-
 
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
@@ -44,7 +41,6 @@
         </x-slot>
     </x-services.sectionLToR>
 
-
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/4280794.jpg')}}
@@ -59,8 +55,6 @@
         </x-slot>
     </x-services.sectionRToL>
 
-
-    <!-- Service Row 3 -->
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/4422913.jpg')}}
@@ -75,7 +69,6 @@
         </x-slot>
     </x-services.sectionLToR>
 
-    <!-- Service Row 2 -->
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/4280794.jpg')}}
@@ -89,7 +82,7 @@
             Opticore crafts bespoke product designs that align with your brand’s identity. From apparel to promotional items, we help you turn everyday products into powerful marketing tools.
         </x-slot>
     </x-services.sectionRToL>
-    <!-- Service Row 3 -->
+
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/4422913.jpg')}}
@@ -103,13 +96,4 @@
             Opticore delivers professional print designs that leave a mark. Whether it’s brochures, flyers, or business cards, we ensure every piece communicates excellence.
         </x-slot>
     </x-services.sectionLToR>
-    <div class="flex flex-col sm:flex-row justify-center items-center my-8">
-        <img src="{{Vite::asset('resources/images/4422913.jpg')}}" alt="Service 3" class="hidden sm:block w-full md:w-1/3 object-cover mb-4 md:mb-0 animate-fade-in-from-left" style="width: 250px; height: 250px;">
-        <div class="md:ml-4 p-4 animate-fade-in-from-right">
-            <h2 class="text-2xl font-bold mb-2 ">Print Design</h2>
-            <p class="text-lg text-justify">Are your print materials failing to make an impact? Poor design can result in wasted resources and missed opportunities.
-                Imagine handing out brochures or business cards that end up in the trash because they fail to impress. Your print materials should reflect the quality of your brand.
-                Opticore delivers professional print designs that leave a mark. Whether it’s brochures, flyers, or business cards, we ensure every piece communicates excellence.</p>
-        </div>
-    </div>
 </section>

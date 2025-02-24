@@ -1,5 +1,4 @@
 <section class="container mx-auto lg:px-52">
-    <!-- Service Row 1 -->
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/59361.jpg')}}
@@ -13,7 +12,7 @@
             Our 3D modeling and rendering services transform your concepts into stunning, photorealistic visuals that captivate audiences and communicate your vision with precision.
         </x-slot>
     </x-services.sectionLToR>
-    <!-- Service Row 2 -->
+
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/4280794.jpg')}}
@@ -28,7 +27,6 @@
         </x-slot>
     </x-services.sectionRToL>
 
-    <!-- Service Row 3 -->
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/4422913.jpg')}}
@@ -43,7 +41,6 @@
         </x-slot>
     </x-services.sectionLToR>
 
-    <!-- Service Row 2 -->
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/4280794.jpg')}}
@@ -58,7 +55,6 @@
         </x-slot>
     </x-services.sectionRToL>
 
-    <!-- Service Row 3 -->
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/4422913.jpg')}}
@@ -73,8 +69,6 @@
         </x-slot>
     </x-services.sectionLToR>
 
-
-    <!-- Service Row 2 -->
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/4280794.jpg')}}
@@ -89,7 +83,6 @@
         </x-slot>
     </x-services.sectionRToL>
 
-    <!-- Service Row 3 -->
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/4422913.jpg')}}
@@ -103,5 +96,4 @@
             We ensure your designs are optimized for 3D printing, delivering ready-to-print files that guarantee smooth production every time.
         </x-slot>
     </x-services.sectionLToR>
-
 </section>

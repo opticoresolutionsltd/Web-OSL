@@ -1,5 +1,4 @@
 <section class="container mx-auto lg:px-52">
-    <!-- Service Row 1 -->
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/59361.jpg')}}
@@ -11,7 +10,7 @@
             Are you missing out on the power of affiliate marketing to grow your business? Without a solid strategy, you could be leaving money on the table. At Opticore Solutions Ltd., we help you build and manage high-performing affiliate marketing campaigns that drive traffic, boost sales, and maximize ROI. From strategy development to partner recruitment and performance tracking, we provide end-to-end solutions to help you succeed.
         </x-slot>
     </x-services.sectionLToR>
-    <!-- Service Row 2 -->
+
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/4280794.jpg')}}
@@ -25,7 +24,6 @@
         </x-slot>
     </x-services.sectionRToL>
 
-    <!-- Service Row 3 -->
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/4422913.jpg')}}
@@ -38,7 +36,6 @@
         </x-slot>
     </x-services.sectionLToR>
 
-    <!-- Service Row 2 -->
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/4280794.jpg')}}
@@ -51,7 +48,6 @@
         </x-slot>
     </x-services.sectionRToL>
 
-    <!-- Service Row 3 -->
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/4422913.jpg')}}
@@ -64,8 +60,6 @@
         </x-slot>
     </x-services.sectionLToR>
 
-
-    <!-- Service Row 2 -->
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/4280794.jpg')}}
@@ -77,5 +71,4 @@
             Are repetitive marketing tasks eating up your time? Manual processes can lead to errors and inefficiencies. With Opticore Solutions Ltd., you can automate your marketing workflows to save time, reduce costs, and improve results. From email automation to lead nurturing and CRM integration, we’ll streamline your marketing efforts so you can focus on growing your business.
         </x-slot>
     </x-services.sectionRToL>
-
 </section>
