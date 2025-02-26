@@ -1,7 +1,7 @@
 <section class="container mx-auto px-8 sm:px-24 md:px-36 lg:px-48">
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/Affiliate Marketing.png')}}
+            {{Vite::asset('resources/images/services/digital marketing/affiliate-marketing.png')}}
         </x-slot>
         <x-slot name="heading">
             Affiliate Marketing
@@ -13,7 +13,7 @@
 
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/E-mail Marketing.png')}}
+            {{Vite::asset('resources/images/services/digital marketing/e-mail-marketing.png')}}
         </x-slot>
         <x-slot name="heading">
             Email Marketing
@@ -26,7 +26,7 @@
 
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4422913.jpg')}}
+            {{Vite::asset('resources/images/services/digital marketing/social-media-marketing.png')}}
         </x-slot>
         <x-slot name="heading">
             Social Media Marketing
@@ -38,7 +38,7 @@
 
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4280794.jpg')}}
+            {{Vite::asset('resources/images/services/digital marketing/seo.png')}}
         </x-slot>
         <x-slot name="heading">
             SEO (Search Engine Optimization)
@@ -50,7 +50,7 @@
 
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4422913.jpg')}}
+            {{Vite::asset('resources/images/services/digital marketing/influencer-marketing.png')}}
         </x-slot>
         <x-slot name="heading">
             Influencer Marketing
@@ -62,7 +62,7 @@
 
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4280794.jpg')}}
+            {{Vite::asset('resources/images/services/digital marketing/marketing-automation.png')}}
         </x-slot>
         <x-slot name="heading">
             Marketing Automation
