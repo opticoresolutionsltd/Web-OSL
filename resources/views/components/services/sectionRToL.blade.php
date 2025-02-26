@@ -1,5 +1,5 @@
-<div class="flex flex-col sm:flex-row justify-center items-center my-8 bg-gray-150">
-    <div class="py-4 pr-4 pl-0 animate-fade-in-from-left">
+<div class="flex flex-col sm:flex-row justify-center items-center my-8 bg-gray-150 sm:px-4 md:px-8 lg:px-12 xl:px-28 2xl:px-36">
+    <div class="p-4 sm:py-4 sm:pr-4 sm:pl-0 animate-fade-in-from-left">
         <h2 class="text-2xl font-bold mb-2">{{$heading}}</h2>
         <p class="text-lg text-justify">{{$description}}</p>
     </div>

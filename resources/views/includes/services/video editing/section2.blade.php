@@ -1,4 +1,4 @@
-<section class="container mx-auto lg:px-52">
+<section class="container mx-auto">
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/services/video editing/video-editing.png')}}

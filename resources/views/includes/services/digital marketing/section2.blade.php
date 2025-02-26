@@ -1,4 +1,4 @@
-<section class="container mx-auto px-8 sm:px-24 md:px-36 lg:px-48">
+<section class="container mx-auto">
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
             {{Vite::asset('resources/images/services/digital marketing/affiliate-marketing.png')}}
