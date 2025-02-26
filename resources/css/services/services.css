@@ -1,8 +1,8 @@
-.animate-fade-in-from-left {
+.animate-fade-in-from-left.active {
     animation: fadeInFromLeft 2s ease-in-out;
 }
 
-.animate-fade-in-from-right {
+.animate-fade-in-from-right.active {
     animation: fadeInFromRight 2s ease-in-out;
 }
 
@@ -15,3 +15,4 @@
     from { opacity: 0; transform: translateX(-150px); }
     to { opacity: 1; transform: translateY(0); }
 }
+

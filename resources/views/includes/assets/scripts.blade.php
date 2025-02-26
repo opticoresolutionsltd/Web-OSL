@@ -4,4 +4,9 @@
     @vite('resources/js/home/app.js')
 @endif
 
+@if(Route::currentRouteName() != 'home' && Route::currentRouteName() != 'contact')
+    @vite('resources/js/services/app.js')
+@endif
+
+
 
