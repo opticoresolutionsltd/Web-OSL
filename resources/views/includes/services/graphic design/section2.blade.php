@@ -1,7 +1,7 @@
 <section class="container mx-auto lg:px-52">
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/59361.jpg')}}
+            {{Vite::asset('resources/images/services/graphics design/photoshop-editing.png')}}
         </x-slot>
         <x-slot name="heading">
             Photoshop Editing
@@ -15,7 +15,7 @@
 
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4280794.jpg')}}
+            {{Vite::asset('resources/images/services/graphics design/logo-identity.png')}}
         </x-slot>
         <x-slot name="heading">
             Logo & Identity Design
@@ -43,7 +43,7 @@
 
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4280794.jpg')}}
+            {{Vite::asset('resources/images/services/graphics design/packaging-design.png')}}
         </x-slot>
         <x-slot name="heading">
             Packaging Design
@@ -57,7 +57,7 @@
 
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4422913.jpg')}}
+            {{Vite::asset('resources/images/services/graphics design/illustration.png')}}
         </x-slot>
         <x-slot name="heading">
             Illustration & Infographics
@@ -85,7 +85,7 @@
 
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4422913.jpg')}}
+            {{Vite::asset('resources/images/services/graphics design/product-design.png')}}
         </x-slot>
         <x-slot name="heading">
             Print Design
