@@ -1,7 +1,7 @@
 <section class="container mx-auto lg:px-52">
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/59361.jpg')}}
+            {{Vite::asset('resources/images/services/video editing/video-editing.png')}}
         </x-slot>
         <x-slot name="heading">
             Video Editing
@@ -43,7 +43,7 @@
 
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4280794.jpg')}}
+            {{Vite::asset('resources/images/services/video editing/youtube-video-editing.png')}}
         </x-slot>
         <x-slot name="heading">
             YouTube Videos
