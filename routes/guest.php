@@ -12,4 +12,5 @@ Route::controller(GuestRouteController::class)->group(function(){
     Route::get('/web-development', 'webDevelopment')->name('web-development');
     Route::get('/contact', 'contact')->name('contact');
     Route::get('/portfolio', 'portfolio')->name('portfolio');
+    Route::get('/faq', 'faq')->name('faq');
 });
