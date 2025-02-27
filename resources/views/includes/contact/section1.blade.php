@@ -1,12 +1,12 @@
-<section class="bg-blue-50 pt-12 dark:bg-slate-800" id="contact">
+<section class="bg-blue-50 pt-12" id="contact">
     <div class="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 lg:py-20">
         <div class="mb-4">
             <div class="mb-6 max-w-3xl text-center sm:text-center md:mx-auto md:mb-12">
                 <h2
-                    class="font-heading mb-4 font-bold tracking-tight text-gray-900 dark:text-white text-3xl sm:text-5xl">
+                    class="font-heading mb-4 font-bold tracking-tight text-gray-900 text-3xl sm:text-5xl">
                     Get in Touch
                 </h2>
-                <p class="mx-auto mt-4 max-w-3xl text-xl text-gray-600 dark:text-slate-400">We’re Here to Help!
+                <p class="mx-auto mt-4 max-w-3xl text-xl text-gray-600">We’re Here to Help!
                 </p>
             </div>
         </div>
@@ -24,7 +24,7 @@
         <div class="flex items-stretch justify-center">
             <div class="grid md:grid-cols-2">
                 <div class="h-full pr-6">
-                    <p class="mt-3 mb-12 text-lg text-gray-600 dark:text-slate-400">
+                    <p class="mt-3 mb-12 text-lg text-gray-600">
                         Finding us is easy! Whether you’re looking for answers, ready to start a project, or just want to say hello, we’re here to help. Use the map below to locate us, or reach out directly—we’d love to hear from you.
                     </p>
                     <ul class="mb-6 md:mb-0">
@@ -40,10 +40,10 @@
                                 </svg>
                             </div>
                             <div class="ml-4 mb-4">
-                                <h3 class="mb-2 text-lg font-medium leading-6 text-gray-900 dark:text-white">Our Address
+                                <h3 class="mb-2 text-lg font-medium leading-6 text-gray-900">Our Address
                                 </h3>
-                                <p class="text-gray-600 dark:text-slate-400">House # 640 (1st Floor)</p>
-                                <p class="text-gray-600 dark:text-slate-400">West Kazipara, Mirpur, Dhaka-1216, Bangladesh</p>
+                                <p class="text-gray-600">House # 640 (1st Floor)</p>
+                                <p class="text-gray-600">West Kazipara, Mirpur, Dhaka-1216, Bangladesh</p>
                             </div>
                         </li>
                         <li class="flex">
@@ -59,10 +59,10 @@
                                 </svg>
                             </div>
                             <div class="ml-4 mb-4">
-                                <h3 class="mb-2 text-lg font-medium leading-6 text-gray-900 dark:text-white">Contact
+                                <h3 class="mb-2 text-lg font-medium leading-6 text-gray-900">Contact
                                 </h3>
-                                <p class="text-gray-600 dark:text-slate-400">Mobile: +88-01896204400</p>
-                                <p class="text-gray-600 dark:text-slate-400">Mail: osl@opticoresolutionsltd.com</p>
+                                <p class="text-gray-600">Mobile: +88-01896204400</p>
+                                <p class="text-gray-600">Mail: osl@opticoresolutionsltd.com</p>
                             </div>
                         </li>
                         <li class="flex">
@@ -75,28 +75,28 @@
                                 </svg>
                             </div>
                             <div class="ml-4 mb-4">
-                                <h3 class="mb-2 text-lg font-medium leading-6 text-gray-900 dark:text-white">Working
+                                <h3 class="mb-2 text-lg font-medium leading-6 text-gray-900">Working
                                     hours</h3>
-                                <p class="text-gray-600 dark:text-slate-400">Wednesday - Monday: 11:00 - 19:00</p>
-                                <p class="text-gray-600 dark:text-slate-400">Tuesday: Weekly Holiday</p>
+                                <p class="text-gray-600">Wednesday - Monday: 11:00 - 19:00</p>
+                                <p class="text-gray-600">Tuesday: Weekly Holiday</p>
                             </div>
                         </li>
                     </ul>
                 </div>
                 <div class="card h-fit max-w-6xl p-5 md:p-12" id="form">
-                    <h2 class="mb-4 text-2xl font-bold dark:text-white">Ready to Get Started?</h2>
+                    <h2 class="mb-4 text-2xl font-bold">Ready to Get Started?</h2>
                     <form id="contactForm">
                         <div class="mb-6">
                             <div class="mx-0 mb-1 sm:mb-4">
                                 <div class="mx-0 mb-1 sm:mb-4">
-                                    <label for="name" class="pb-1 text-xs uppercase tracking-wider"></label><input type="text" id="name" autocomplete="given-name" placeholder="Your name" class="mb-2 w-full rounded-md border border-gray-400 py-2 pl-2 pr-4 shadow-md dark:text-gray-300 sm:mb-0" name="name">
+                                    <label for="name" class="pb-1 text-xs uppercase tracking-wider"></label><input type="text" id="name" autocomplete="given-name" placeholder="Your name" class="mb-2 w-full rounded-md border border-gray-400 py-2 pl-2 pr-4 shadow-md sm:mb-0" name="name">
                                 </div>
                                 <div class="mx-0 mb-1 sm:mb-4">
-                                    <label for="email" class="pb-1 text-xs uppercase tracking-wider"></label><input type="email" id="email" autocomplete="email" placeholder="Your email address" class="mb-2 w-full rounded-md border border-gray-400 py-2 pl-2 pr-4 shadow-md dark:text-gray-300 sm:mb-0" name="email">
+                                    <label for="email" class="pb-1 text-xs uppercase tracking-wider"></label><input type="email" id="email" autocomplete="email" placeholder="Your email address" class="mb-2 w-full rounded-md border border-gray-400 py-2 pl-2 pr-4 shadow-md sm:mb-0" name="email">
                                 </div>
                             </div>
                             <div class="mx-0 mb-1 sm:mb-4">
-                                <label for="textarea" class="pb-1 text-xs uppercase tracking-wider"></label><textarea id="textarea" name="textarea" cols="30" rows="5" placeholder="Write your message..." class="mb-2 w-full rounded-md border border-gray-400 py-2 pl-2 pr-4 shadow-md dark:text-gray-300 sm:mb-0"></textarea>
+                                <label for="textarea" class="pb-1 text-xs uppercase tracking-wider"></label><textarea id="textarea" name="textarea" cols="30" rows="5" placeholder="Write your message..." class="mb-2 w-full rounded-md border border-gray-400 py-2 pl-2 pr-4 shadow-md sm:mb-0"></textarea>
                             </div>
                         </div>
                         <div class="text-center">

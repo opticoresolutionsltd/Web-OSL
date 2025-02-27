@@ -1,5 +1,5 @@
 <div class="bg-gray-50 pt-6">
-    <h2 class="mb-4 mt-10 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Meet the Experts Behind Your Success.</h2>
+    <h2 class="mb-4 mt-10 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl">Meet the Experts Behind Your Success.</h2>
     <span class="mt-6 text-lg text-gray-500 font-medium text-center block mb-2">Our team of seasoned professionals is dedicated to helping you achieve your goals.</span>
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div class="relative overflow-hidden">

@@ -16,8 +16,8 @@
                 <div class="space-y-2">
                     <p>House # 640 (1st Floor)</p>
                     <p>West Kazipara, Mirpur, Dhaka-1216, Bangladesh</p>
-                    <p>Phone: +88-01994045705</p>
-                    <p>Email: asad@alliancebuildersltd.org</p>
+                    <p>Phone: +88-01896204400</p>
+                    <p>Email: osl@opticoresolutionsltd.com</p>
                 </div>
             </div>
 
