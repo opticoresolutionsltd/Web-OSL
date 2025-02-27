@@ -1,4 +1,4 @@
-<div id="controls-carousel" class="relative w-full pt-20" data-carousel="slide">
+<div id="controls-carousel" class="relative w-full pt-20" data-carousel="static">
     <!-- Carousel wrapper -->
     <div class="relative h-[40svh] overflow-hidden md:h-[50svh] lg:h-[60svh]">
         <!-- Item 1 -->
@@ -10,7 +10,7 @@
                 Struggling to monetize your talents or find a platform that truly values your skills? At Opticore Solutions Ltd., we understand how frustrating it can be to see your hard work go unnoticed or underpaid. That’s why we’ve created a better, faster, and smarter way to earn money—a platform where you can showcase your talent, save time, and turn your skills into income effortlessly. Whether you’re into graphic design, video editing, digital marketing, or web development, we provide everything you need to stand out and succeed.
             </x-slot>
             <x-slot name="image">
-                <x-images.image src="{{Vite::asset('resources/images/g.png')}}" alt="hero image"/>
+                <x-images.image src="{{Vite::asset('resources/images/TEST.gif')}}" alt="hero image"/>
             </x-slot>
         </x-carousel.itemType01>
         <!-- Item 2 -->

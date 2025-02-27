@@ -11,4 +11,5 @@ Route::controller(GuestRouteController::class)->group(function(){
     Route::get('/3d-production', '_3dProduction')->name('3d-production');
     Route::get('/web-development', 'webDevelopment')->name('web-development');
     Route::get('/contact', 'contact')->name('contact');
+    Route::get('/portfolio', 'portfolio')->name('portfolio');
 });

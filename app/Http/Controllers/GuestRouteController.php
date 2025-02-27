@@ -40,4 +40,9 @@ class GuestRouteController extends Controller
     {
         return view('main.web-development');
     }
+
+    public function portfolio()
+    {
+        return view('main.portfolio-individual');
+    }
 }
