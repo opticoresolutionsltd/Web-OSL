@@ -20,7 +20,7 @@
                                 </svg>
                             </span>
                     </summary>
-                    <p class="bg-[#1B4071] group-open:animate-fadeIn mt-3 text-white p-3 rounded-lg">Springerdata offers a variety of
+                    <p class="bg-[#1B4071] group-open:animate-fadeIn mt-3 text-white p-5 text-justify rounded-2xl">Springerdata offers a variety of
                         billing options, including monthly and annual subscription plans, as well as pay-as-you-go
                         pricing for certain services. Payment is typically made through a credit card or other
                         secure online payment method.
@@ -39,7 +39,7 @@
                                 </svg>
                             </span>
                     </summary>
-                    <p class="bg-[#1B4071] group-open:animate-fadeIn mt-3 text-white p-3 rounded-lg">We offer a 30-day money-back
+                    <p class="bg-[#1B4071] group-open:animate-fadeIn mt-3 text-white p-5 text-justify rounded-2xl">We offer a 30-day money-back
                         guarantee for most of its subscription plans. If you are not satisfied with your
                         subscription within the first 30 days, you can request a full refund. Refunds for
                         subscriptions that have been active for longer than 30 days may be considered on a
@@ -59,7 +59,7 @@
                                 </svg>
                             </span>
                     </summary>
-                    <p class="bg-[#1B4071] group-open:animate-fadeIn mt-3 text-white p-3 rounded-lg">To cancel your subscription, you can
+                    <p class="bg-[#1B4071] group-open:animate-fadeIn mt-3 text-white p-5 text-justify rounded-2xl">To cancel your subscription, you can
                         log in to your account and navigate to the subscription management page. From there, you
                         should be able to cancel your subscription and stop future billing.
                     </p>
@@ -77,7 +77,7 @@
                                 </svg>
                             </span>
                     </summary>
-                    <p class="bg-[#1B4071] group-open:animate-fadeIn mt-3 text-white p-3 rounded-lg">We offer a free trial of our software
+                    <p class="bg-[#1B4071] group-open:animate-fadeIn mt-3 text-white p-5 text-justify rounded-2xl">We offer a free trial of our software
                         for a limited time. During the trial period, you will have access to a limited set of
                         features and functionality, but you will not be charged.
                     </p>
@@ -95,7 +95,7 @@
                                 </svg>
                             </span>
                     </summary>
-                    <p class="bg-[#1B4071] group-open:animate-fadeIn mt-3 text-white p-3 rounded-lg">If you need help with our platform or
+                    <p class="bg-[#1B4071] group-open:animate-fadeIn mt-3 text-white p-5 text-justify rounded-2xl">If you need help with our platform or
                         have any other questions, you can contact the company's support team by submitting a support
                         request through the website or by emailing support@ourwebsite.com.
                     </p>
@@ -113,7 +113,7 @@
                                 </svg>
                             </span>
                     </summary>
-                    <p class="bg-[#1B4071] group-open:animate-fadeIn mt-3 text-white p-3 rounded-lg">We may offer discounts or promotions
+                    <p class="bg-[#1B4071] group-open:animate-fadeIn mt-3 text-white p-5 text-justify rounded-2xl">We may offer discounts or promotions
                         from time to time. To stay up-to-date on the latest deals and special offers, you can sign
                         up for the company's newsletter or follow it on social media.
                     </p>
