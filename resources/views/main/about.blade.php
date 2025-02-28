@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('title')
-    <x-titles.title>Contact - Opticore Solutions Limited</x-titles.title>
+    <x-titles.title>About Us - Opticore Solutions Limited</x-titles.title>
 @endsection
 @section('container')
     <body lang="en">

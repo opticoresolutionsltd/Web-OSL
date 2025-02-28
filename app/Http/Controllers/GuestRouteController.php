@@ -55,4 +55,9 @@ class GuestRouteController extends Controller
     {
         return view('main.about');
     }
+
+    public function privacy()
+    {
+        return view('main.privacy-policy');
+    }
 }
