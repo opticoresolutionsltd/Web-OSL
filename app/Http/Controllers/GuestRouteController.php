@@ -50,4 +50,9 @@ class GuestRouteController extends Controller
     {
         return view('main.faq');
     }
+
+    public function about()
+    {
+        return view('main.about');
+    }
 }

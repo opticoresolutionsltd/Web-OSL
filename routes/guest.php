@@ -13,4 +13,5 @@ Route::controller(GuestRouteController::class)->group(function(){
     Route::get('/contact', 'contact')->name('contact');
     Route::get('/portfolio', 'portfolio')->name('portfolio');
     Route::get('/faq', 'faq')->name('faq');
+    Route::get('/about-us', 'about')->name('about');
 });
