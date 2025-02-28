@@ -13,7 +13,7 @@
         <div class="relative h-0 overflow-hidden rounded-3xl mb-6 h-[50svh]">
             <iframe
                 class="absolute top-0 left-0 w-full h-[50svh]"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d912.6409114170441!2d90.37132289725066!3d23.79854803801083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c12fae71412b%3A0xb6df06aab789d2d1!2sAlliance%20Builders%20Ltd!5e0!3m2!1sen!2sbd!4v1739344434423!5m2!1sen!2sbd"
+                src="{{config('opticore.google_map.embed')}}"
                 frameborder="0"
                 style="border:0;"
                 allowfullscreen=""
@@ -42,8 +42,8 @@
                             <div class="ml-4 mb-4">
                                 <h3 class="mb-2 text-lg font-medium leading-6 text-gray-900">Our Address
                                 </h3>
-                                <p class="text-gray-600">House # 640 (1st Floor)</p>
-                                <p class="text-gray-600">West Kazipara, Mirpur, Dhaka-1216, Bangladesh</p>
+                                <p class="text-gray-600"><x-hyperlinks.anchor href="{{config('opticore.google_map.share')}}" target="_blank">House # 640 (1st Floor)</x-hyperlinks.anchor></p>
+                                <p class="text-gray-600"><x-hyperlinks.anchor href="{{config('opticore.google_map.share')}}" target="_blank">West Kazipara, Mirpur, Dhaka-1216, Bangladesh</x-hyperlinks.anchor></p>
                             </div>
                         </li>
                         <li class="flex">
@@ -61,8 +61,8 @@
                             <div class="ml-4 mb-4">
                                 <h3 class="mb-2 text-lg font-medium leading-6 text-gray-900">Contact
                                 </h3>
-                                <p class="text-gray-600">Mobile: +88-01896204400</p>
-                                <p class="text-gray-600">Mail: osl@opticoresolutionsltd.com</p>
+                                <p class="text-gray-600">Mobile: <x-hyperlinks.anchor href="tel:{{config('opticore.phone_number')}}">{{config('opticore.phone_number')}}</x-hyperlinks.anchor></p>
+                                <p class="text-gray-600">Mail: <x-hyperlinks.anchor href="mailto:{{config('opticore.email_address')}}">{{config('opticore.email_address')}}</x-hyperlinks.anchor></p>
                             </div>
                         </li>
                         <li class="flex">

@@ -14,10 +14,10 @@
             <div class="text-center md:text-left text-white">
                 <h3 class="text-lg font-semibold mb-4">Contact Us</h3>
                 <div class="space-y-2">
-                    <p>House # 640 (1st Floor)</p>
-                    <p>West Kazipara, Mirpur, Dhaka-1216, Bangladesh</p>
-                    <p>Phone: {{config('opticore.phone_number')}}</p>
-                    <p>Email: {{config('opticore.email_address')}}</p>
+                    <p><x-hyperlinks.anchor href="{{config('opticore.google_map.share')}}" target="_blank">House # 640 (1st Floor)</x-hyperlinks.anchor></p>
+                    <p><x-hyperlinks.anchor href="{{config('opticore.google_map.share')}}" target="_blank">West Kazipara, Mirpur, Dhaka-1216, Bangladesh</x-hyperlinks.anchor></p>
+                    <p>Phone: <x-hyperlinks.anchor href="tel:{{config('opticore.phone_number')}}">{{config('opticore.phone_number')}}</x-hyperlinks.anchor></p>
+                    <p>Email: <x-hyperlinks.anchor href="mailto:{{config('opticore.email_address')}}">{{config('opticore.email_address')}}</x-hyperlinks.anchor></p>
                 </div>
             </div>
 
