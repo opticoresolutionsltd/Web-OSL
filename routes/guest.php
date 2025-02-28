@@ -15,4 +15,5 @@ Route::controller(GuestRouteController::class)->group(function(){
     Route::get('/faq', 'faq')->name('faq');
     Route::get('/about-us', 'about')->name('about');
     Route::get('/privacy-policy', 'privacy')->name('privacy-policy');
+    Route::get('/terms-conditions', 'terms')->name('terms-conditions');
 });
