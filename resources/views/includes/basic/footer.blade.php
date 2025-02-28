@@ -9,7 +9,7 @@
                 </div>
                 <p class="text-center md:text-left">Affordable Services for All.</p>
             </div>
- ad
+
             <!-- Contact Information -->
             <div class="text-center md:text-left text-white">
                 <h3 class="text-lg font-semibold mb-4">Contact Us</h3>

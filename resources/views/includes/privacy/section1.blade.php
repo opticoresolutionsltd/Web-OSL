@@ -1,124 +1,106 @@
 <div class="bg-gray-25 pt-20">
     <div class="container mx-auto px-4 py-8">
-        <h1 class="text-4xl font-bold mb-5 text-center">Privacy Policy</h1>
+        <h1 class="text-4xl font-bold mb-5 text-center">Privacy Policy of Opticore Solutions Limited</h1>
         <hr class="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700">
         <p class="mb-4">
-            This privacy policy sets out how our website uses and protects any information that you give us when you use
-            this
-            website.
+            At Opticore Solutions Limited, we’re not just about delivering creative solutions—we’re about building relationships rooted in trust and transparency. Your privacy is at the heart of everything we do, and this policy explains how we handle your personal information with care, respect, and integrity.
         </p>
-
-        <h2 class="text-2xl font-bold mb-2">Information We Collect</h2>
-
         <p class="mb-4">
-            We may collect the following information:
+            By using our services or interacting with us, you’re entrusting us with your data. We take this responsibility seriously and are committed to protecting your information while helping you achieve your business goals through creativity and innovation.
         </p>
 
+        <h2 class="text-2xl font-bold mb-2">Why Should You Trust Us?</h2>
+        <p>
+            Before diving into the details, here’s what sets us apart:
+        </p>
         <ul class="list-disc list-inside mb-4">
-            <li>Your name and contact information</li>
-            <li>Demographic information</li>
-            <li>Other information relevant to customer surveys and/or offers</li>
+            <li>Human-Centric Approach: We treat your data as if it were our own—because we know how important it is to you.</li>
+            <li>Compliance with Global Standards: Our practices align with regulations like GDPR, CCPA, and other privacy laws to ensure your rights are protected.</li>
+            <li>Transparent Communication: No jargon, no hidden clauses—just clear, straightforward explanations.</li>
+        </ul>
+        <p class="mb-4">Now, let’s break down how we handle your data step by step.</p>
+
+        <h2 class="text-2xl font-bold mb-2">1. What Information Do We Collect?</h2>
+        <p class="mb-4">To deliver exceptional services and create meaningful connections, we may collect certain types of information from you. Here’s what we gather:</p>
+
+        <h2 class="text-xl font-bold mb-2 ml-4">Personal Information You Provide</h2>
+        <p class="ml-4">
+            When you collaborate with us—whether it’s filling out a contact form, signing up for updates, or discussing a project—we may ask for:
+        </p>
+        <ul class="list-disc list-inside mb-4 ml-4">
+            <li>Basic Details: Your name, email address, phone number, or company information.</li>
+            <li>Project-Specific Data: Any additional details you share during consultations or feedback sessions.</li>
+        </ul>
+        <h2 class="text-xl font-bold mb-2 ml-4"> Automatically Collected Data</h2>
+        <p class="ml-4">
+            When you visit our website or interact with our digital tools, we may automatically collect:
+        </p>
+        <ul class="list-disc list-inside mb-4 ml-4">
+            <li>Usage Data: Pages visited, time spent on the site, and interactions with features.</li>
+            <li>Device Information: Browser type, IP address, and operating system.</li>
+            <li>Cookies: Small files stored on your device to enhance your experience (more on this below).</li>
+        </ul>
+        <h2 class="text-xl font-bold mb-2 ml-4"> Third-Party Sources</h2>
+        <p class="mb-4 ml-4">
+            In some cases, we may receive information about you from trusted partners, such as analytics providers or marketing platforms, but only if they comply with strict privacy standards.
+        </p>
+
+        <h2 class="text-2xl font-bold mb-2">2. How Do We Use Your Information?</h2>
+        <p class="mb-4">Your data is never just a number to us—it’s an opportunity to build something extraordinary together. Here’s how we use the information we collect:</p>
+        <ul class="list-disc list-inside mb-4">
+            <li>Delivering Tailored Solutions: We analyze your needs to craft custom web designs, graphic designs, digital marketing strategies, and more.</li>
+            <li>Effective Communication: Whether it’s sending updates, answering queries, or sharing insights, we want to keep you informed every step of the way.</li>
+            <li>Improving Our Services: By understanding how you interact with us, we can refine our offerings and make them even better.</li>
+            <li>Legal Compliance: We ensure all activities align with applicable laws and regulations, safeguarding both you and us.</li>
+        </ul>
+        <p class="mb-4">Rest assured, your data will never be used for purposes beyond what’s outlined here without your explicit consent.</p>
+
+        <h2 class="text-2xl font-bold mb-2">3. Who Do We Share Your Information With?</h2>
+        <p class="mb-4">We value your trust above all else, which is why we don’t sell, rent, or trade your personal information to third parties for their own marketing purposes. However, there are limited scenarios where sharing might occur:</p>
+        <ul class="list-disc list-inside mb-4">
+            <li>Trusted Partners: Service providers who assist us in delivering our services (e.g., hosting providers, payment processors) may access your data—but only under strict confidentiality agreements.</li>
+            <li>Legal Requirements: If required by law or to protect our rights, we may disclose information to authorities or legal entities.</li>
+            <li>Business Transitions: In the unlikely event of a merger, acquisition, or sale, your data may be transferred securely to ensure continuity.</li>
         </ul>
 
-        <h2 class="text-2xl font-bold mb-2">How We Use the Information</h2>
-
-        <p class="mb-4">
-            We require this information to understand your needs and provide you with a better service, and in
-            particular
-            for
-            the following reasons:
-        </p>
-
+        <h2 class="text-2xl font-bold mb-2">4. How Do We Protect Your Data?</h2>
+        <p class="mb-4">Your peace of mind is our priority. To safeguard your information, we employ industry-leading security measures, including:</p>
         <ul class="list-disc list-inside mb-4">
-            <li>Internal record keeping</li>
-            <li>Improving our products and services</li>
-            <li>Sending promotional emails about new products, special offers, or other information which we think you
-                may
-                find
-                interesting</li>
-            <li>From time to time, we may also use your information to contact you for market research purposes. We may
-                contact
-                you by email, phone, or mail. We may use the information to customize the website according to your
-                interests.</li>
+            <li>Encryption Technologies: To protect data during transmission.</li>
+            <li>Access Controls: Only authorized personnel can access sensitive information.</li>
+            <li>Regular Audits: Continuous monitoring to identify and address vulnerabilities.</li>
         </ul>
+        <p class="mb-4">While no system is 100% foolproof, we strive to minimize risks and keep your data safe at all times.</p>
 
-        <h2 class="text-2xl font-bold mb-2">Security</h2>
-
-        <p class="mb-4">
-            We are committed to ensuring that your information is secure. In order to prevent unauthorized access or
-            disclosure,
-            we have put in place suitable physical, electronic, and managerial procedures to safeguard and secure the
-            information we collect online.
-        </p>
-
-        <h2 class="text-2xl font-bold mb-2">Cookies</h2>
-
-        <p class="mb-4">
-            A cookie is a small file that asks permission to be placed on your computer's hard drive. Once you agree,
-            the
-            file
-            is added, and the cookie helps analyze web traffic or lets you know when you visit a particular site.
-            Cookies
-            allow
-            web applications to respond to you as an individual. The web application can tailor its operations to your
-            needs,
-            likes, and dislikes by gathering and remembering information about your preferences.
-        </p>
-
-        <p class="mb-4">
-            Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find
-            useful
-            and which you do not. A cookie in no way gives us access to your computer or any information about you,
-            other
-            than
-            the data you choose to share with us.
-        </p>
-
-        <h2 class="text-2xl font-bold mb-2">Links to Other Websites</h2>
-
-        <p class="mb-4">
-            Our website may contain links to other websites of interest. However, once you have used these links to
-            leave
-            our
-            site, you should note that we do not have any control over that other website. Therefore, we cannot be
-            responsible
-            for the protection and privacy of any information which you provide whilst visiting such sites and such
-            sites
-            are
-            not governed by this privacy statement. You should exercise caution and look at the privacy statement
-            applicable
-            to
-            the website in question.
-        </p>
-
-        <h2 class="text-2xl font-bold mb-2">Controlling Your Personal Information</h2>
-
-        <p class="mb-4">
-            You may choose to restrict the collection or use of your personal information in the following ways:
-        </p>
-
+        <h2 class="text-2xl font-bold mb-2">5. Your Rights Over Your Data</h2>
+        <p class="mb-4">You’re always in control of your personal information. Depending on your location, you may have the following rights:</p>
         <ul class="list-disc list-inside mb-4">
-            <li>If you have previously agreed to us using your personal information for direct marketing purposes, you
-                may
-                change your mind at any time by writing to or emailing us at [email protected]</li>
-            <li>We will not sell, distribute, or lease your personal information to third parties unless we have your
-                permission
-                or are required by law to do so. We may use your personal information to send you promotional
-                information
-                about
-                third parties which we think you may find interesting if you tell us that you wish this to happen.</li>
-            <li>You may request details of personal information which we hold about you. If you would like a copy of the
-                information held on you, please write to [Your Company Name, Address, City, State, Zip Code] or email
-                [email protected]</li>
-            <li>If you believe that any information we are holding on you is incorrect or incomplete, please write to or
-                email
-                us as soon as possible at the above address. We will promptly correct any information found to be
-                incorrect.
-            </li>
+            <li>Access: Request a copy of the data we hold about you.</li>
+            <li>Correction: Update or correct inaccuracies in your information.</li>
+            <li>Deletion: Ask us to remove your data from our records.</li>
+            <li>Opt-Out: Withdraw consent for specific uses, such as marketing communications.</li>
         </ul>
+        <p class="mb-4">To exercise these rights, simply reach out to us using the contact details provided below. We’ll respond promptly and respectfully.</p>
 
-        <p class="mb-4">
-            This privacy policy is subject to change without notice.
-        </p>
+        <h2 class="text-2xl font-bold mb-2">6. Cookies and Tracking Technologies</h2>
+        <p class="mb-4">Like many websites, we use cookies and similar technologies to enhance your browsing experience. These tools help us:</p>
+        <ul class="list-disc list-inside mb-4">
+            <li>Remember your preferences.</li>
+            <li>Analyze traffic patterns.</li>
+            <li>Deliver personalized content.</li>
+        </ul>
+        <p class="mb-4">You can manage cookie settings through your browser, but please note that disabling cookies may affect functionality.</p>
+
+        <h2 class="text-2xl font-bold mb-2">7. Updates to This Policy</h2>
+        <p class="mb-4">As technology evolves and our services grow, we may update this Privacy Policy to reflect changes. If significant updates occur, we’ll notify you via email or a prominent notice on our website. Your continued engagement with us signifies acceptance of the revised terms.</p>
+
+        <h2 class="text-2xl font-bold mb-2">8. Contact Us</h2>
+        <p class="mb-4">Have questions? Concerns? Or just want to say hello? We’d love to hear from you! Reach out to our dedicated team at:</p>
+        <ul class="list-disc list-inside mb-4">
+            <li>Email: osl@opticoresolutionsltd.com</li>
+            <li>Phone: +88-01896204400</li>
+            <li>Address: House # 640 (6th Floor), West Kazipara, Mirpur, Dhaka-1216, Bangladesh</li>
+        </ul>
+        <p class="mb-4">We’re here to listen, support, and ensure your experience with Opticore Solutions Limited is nothing short of exceptional.</p>
     </div>
 </div>
