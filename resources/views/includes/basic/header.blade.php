@@ -1,7 +1,7 @@
 <nav class="bg-white w-full z-50 fixed top-0 start-0 border-b border-gray-200">
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <x-hyperlinks.anchor href="{{route('home')}}" class="flex items-center space-x-3 rtl:space-x-reverse">
-            <x-images.image src="{{Vite::asset('resources/images/logo/Opticore-Logo(1).png')}}" class="h-8 md:h-9 lg:h-10" alt="Opticore Solutions Ltd.- Logo"/>
+            <x-images.image src="{{Vite::asset('resources/images/logo/opticore-logo-full.png')}}" class="h-8 md:h-9 lg:h-10" alt="Opticore Solutions Ltd.- Logo"/>
         </x-hyperlinks.anchor>
         <div class="flex xl:order-2 space-x-3 xl:space-x-0 rtl:space-x-reverse">
             <x-hyperlinks.anchor href="tel:{{config('opticore.phone_number')}}">

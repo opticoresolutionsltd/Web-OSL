@@ -42,7 +42,7 @@
                             <div class="ml-4 mb-4">
                                 <h3 class="mb-2 text-lg font-medium leading-6 text-gray-900">Our Address
                                 </h3>
-                                <p class="text-gray-600"><x-hyperlinks.anchor href="{{config('opticore.google_map.share')}}" target="_blank">House # 640 (1st Floor)</x-hyperlinks.anchor></p>
+                                <p class="text-gray-600"><x-hyperlinks.anchor href="{{config('opticore.google_map.share')}}" target="_blank">House # 640 (6th Floor)</x-hyperlinks.anchor></p>
                                 <p class="text-gray-600"><x-hyperlinks.anchor href="{{config('opticore.google_map.share')}}" target="_blank">West Kazipara, Mirpur, Dhaka-1216, Bangladesh</x-hyperlinks.anchor></p>
                             </div>
                         </li>

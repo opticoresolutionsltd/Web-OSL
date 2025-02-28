@@ -1,13 +1,13 @@
 <section class="container mx-auto">
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/59361.jpg')}}
+            {{Vite::asset('resources/images/services/3d production/modeling-rendering.png')}}
         </x-slot>
         <x-slot name="heading">
             3D Modeling & Rendering
         </x-slot>
         <x-slot name="description">
-            Hero Section: Struggling to bring your ideas to life? Static visuals fail to capture the depth and realism you need for impactful presentations.
+            Struggling to bring your ideas to life? Static visuals fail to capture the depth and realism you need for impactful presentations.
             Without lifelike models,  your designs can feel flat and uninspiring, leaving stakeholders unimpressed and potential clients disengaged.
             Our 3D modeling and rendering services transform your concepts into stunning, photorealistic visuals that captivate audiences and communicate your vision with precision.
         </x-slot>
@@ -15,7 +15,7 @@
 
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4280794.jpg')}}
+            {{Vite::asset('resources/images/services/3d production/architecture-interior.png')}}
         </x-slot>
         <x-slot name="heading">
             Architecture & Interior Design
@@ -29,7 +29,7 @@
 
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4422913.jpg')}}
+            {{Vite::asset('resources/images/services/3d production/product-modeling-animation.png')}}
         </x-slot>
         <x-slot name="heading">
             Product Modeling & Animation
@@ -85,7 +85,7 @@
 
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4422913.jpg')}}
+            {{Vite::asset('resources/images/services/3d production/3d-printing.png')}}
         </x-slot>
         <x-slot name="heading">
             3D Print

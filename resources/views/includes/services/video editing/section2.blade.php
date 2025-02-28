@@ -15,7 +15,7 @@
 
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4280794.jpg')}}
+            {{Vite::asset('resources/images/services/video editing/branding-promotional-video.png')}}
         </x-slot>
         <x-slot name="heading">
             Branding & Promotional Videos (Product)
@@ -29,7 +29,7 @@
 
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/59361.jpg')}}
+            {{Vite::asset('resources/images/services/video editing/motion-video.png')}}
         </x-slot>
         <x-slot name="heading">
             Motion Videos
@@ -57,7 +57,7 @@
 
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4422913.jpg')}}
+            {{Vite::asset('resources/images/services/video editing/social-media-video.png')}}
         </x-slot>
         <x-slot name="heading">
             Social Media Videos
@@ -85,7 +85,7 @@
 
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4422913.jpg')}}
+            {{Vite::asset('resources/images/services/video editing/explainer-video.png')}}
         </x-slot>
         <x-slot name="heading">
             Explainer Videos
@@ -99,7 +99,7 @@
 
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4280794.jpg')}}
+            {{Vite::asset('resources/images/services/video editing/documentary-video.png')}}
         </x-slot>
         <x-slot name="heading">
             Documentary Videos
@@ -110,18 +110,4 @@
             Our documentary video services bring stories to life with compelling visuals, seamless editing, and emotional depth.
         </x-slot>
     </x-services.sectionRToL>
-
-    <x-services.sectionLToR>
-        <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4422913.jpg')}}
-        </x-slot>
-        <x-slot name="heading">
-            Event Videos
-        </x-slot>
-        <x-slot name="description">
-            Your events are memorable, but the footage doesn’t do them justice.
-            Low-quality event videos fail to capture the energy and significance of the occasion, leaving attendees underwhelmed and future prospects uninspired.
-            We produce professional event videos that preserve every moment in stunning detail, allowing you to relive the experience or share it with others.
-        </x-slot>
-    </x-services.sectionLToR>
 </section>

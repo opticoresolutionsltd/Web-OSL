@@ -4,17 +4,17 @@
             <!-- Brand Identity -->
             <div class="flex flex-col items-center md:items-start">
                 <div class="flex items-center mb-4">
-                    <img src="{{Vite::asset('resources/images/logo o.png')}}" alt="Company Logo" class="w-20 h-20 object-contain">
+                    <img src="{{Vite::asset('resources/images/logo/opticore-logo-alt.png')}}" alt="Company Logo" class="w-20 h-20 object-contain">
                     <h2 class="text-xl font-bold ml-3">{{config('opticore.brand_name')}}</h2>
                 </div>
                 <p class="text-center md:text-left">Affordable Services for All.</p>
             </div>
-
+ ad
             <!-- Contact Information -->
             <div class="text-center md:text-left text-white">
                 <h3 class="text-lg font-semibold mb-4">Contact Us</h3>
                 <div class="space-y-2">
-                    <p><x-hyperlinks.anchor href="{{config('opticore.google_map.share')}}" target="_blank">House # 640 (1st Floor)</x-hyperlinks.anchor></p>
+                    <p><x-hyperlinks.anchor href="{{config('opticore.google_map.share')}}" target="_blank">House # 640 (6th Floor)</x-hyperlinks.anchor></p>
                     <p><x-hyperlinks.anchor href="{{config('opticore.google_map.share')}}" target="_blank">West Kazipara, Mirpur, Dhaka-1216, Bangladesh</x-hyperlinks.anchor></p>
                     <p>Phone: <x-hyperlinks.anchor href="tel:{{config('opticore.phone_number')}}">{{config('opticore.phone_number')}}</x-hyperlinks.anchor></p>
                     <p>Email: <x-hyperlinks.anchor href="mailto:{{config('opticore.email_address')}}">{{config('opticore.email_address')}}</x-hyperlinks.anchor></p>

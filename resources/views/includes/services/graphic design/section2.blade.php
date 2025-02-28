@@ -29,7 +29,7 @@
 
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4422913.jpg')}}
+            {{Vite::asset('resources/images/services/graphics design/social-media-design.png')}}
         </x-slot>
         <x-slot name="heading">
             Social Media Graphics

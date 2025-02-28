@@ -1,7 +1,7 @@
 <section class="container mx-auto">
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/59361.jpg')}}
+            {{Vite::asset('resources/images/services/web development/portfolio-website.png')}}
         </x-slot>
         <x-slot name="heading">
             Portfolio Website
@@ -13,7 +13,7 @@
 
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4280794.jpg')}}
+            {{Vite::asset('resources/images/services/web development/business-website.png')}}
         </x-slot>
         <x-slot name="heading">
             Business Website
@@ -25,7 +25,7 @@
 
     <x-services.sectionLToR>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/59361.jpg')}}
+            {{Vite::asset('resources/images/services/web development/corporate-website.png')}}
         </x-slot>
         <x-slot name="heading">
             Corporate Website
@@ -37,7 +37,7 @@
 
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4280794.jpg')}}
+            {{Vite::asset('resources/images/services/web development/e-commerce-website.png')}}
         </x-slot>
         <x-slot name="heading">
             E-commerce Website
