@@ -1,72 +1,64 @@
-<div id="controls-carousel" class="relative w-full pt-20" data-carousel="static">
+<div id="controls-carousel" class="relative w-full pt-20" data-carousel="static" data-carousel-interval="5000">
     <!-- Carousel wrapper -->
     <div class="relative h-[40svh] overflow-hidden md:h-[50svh] lg:h-[60svh]">
         <!-- Item 1 -->
         <x-carousel.itemType01 data-carousel-item="active">
             <x-slot name="heading">
-                Transform Your Skills<br>into Income with<br>Opticore Solutions Ltd.
+                Your Art, Your Income : Start Earning with Your Designs
             </x-slot>
             <x-slot name="description">
-                Struggling to monetize your talents or find a platform that truly values your skills? At Opticore Solutions Ltd., we understand how frustrating it can be to see your hard work go unnoticed or underpaid. That’s why we’ve created a better, faster, and smarter way to earn money—a platform where you can showcase your talent, save time, and turn your skills into income effortlessly. Whether you’re into graphic design, video editing, digital marketing, or web development, we provide everything you need to stand out and succeed.
+                Love creating eye-catching visuals? With Opticore Solutions Ltd., your designs don’t just impress—they make you money. Show off your talent and get paid what you truly deserve.
             </x-slot>
             <x-slot name="image">
-                <x-images.image src="{{Vite::asset('resources/images/TEST.gif')}}" alt="hero image"/>
+                <x-images.image src="{{Vite::asset('resources/images/carousel/graphic-design.gif')}}" alt="Graphic Design" class="scale-150"/>
             </x-slot>
         </x-carousel.itemType01>
         <!-- Item 2 -->
         <x-carousel.itemType02>
             <x-slot name="heading">
-                Building digital <br>products & brands.
+                Turn Your Edits into Earnings : It’s Time to Shine!
             </x-slot>
             <x-slot name="description">
-                This free and open-source landing page template was built using the utility classes from <a href="https://tailwindcss.com" class="hover:underline">
-                    Tailwind CSS</a> and based on the components from the <a href="https://flowbite.com/docs/getting-started/introduction/" class="hover:underline">
-                    Flowbite Library</a> and the <a href="https://flowbite.com/blocks/" class="hover:underline">Blocks System</a>
+                Whether you’re cutting clips or crafting stories, your video skills can now bring home the cash. Join us, save time, and let your work speak for itself.
             </x-slot>
             <x-slot name="image">
-                <x-images.image src="{{Vite::asset('resources/images/g.png')}}" alt="hero image"/>
+                <x-images.image src="{{Vite::asset('resources/images/g.png')}}" alt="Video Editing" class="scale-150"/>
             </x-slot>
         </x-carousel.itemType02>
         <!-- Item 3 -->
         <x-carousel.itemType01>
             <x-slot name="heading">
-                Building digital <br>products & brands.
+                Help Brands Grow, While You Grow Your Bank Account
             </x-slot>
             <x-slot name="description">
-                This free and open-source landing page template was built using the utility classes from <a href="https://tailwindcss.com" class="hover:underline">
-                    Tailwind CSS</a> and based on the components from the <a href="https://flowbite.com/docs/getting-started/introduction/" class="hover:underline">
-                    Flowbite Library</a> and the <a href="https://flowbite.com/blocks/" class="hover:underline">Blocks System</a>
+                Got a knack for boosting businesses online? Use your marketing magic on our platform to earn more while making an impact that matters.
             </x-slot>
             <x-slot name="image">
-                <x-images.image src="{{Vite::asset('resources/images/g.png')}}" alt="hero image"/>
+                <x-images.image src="{{Vite::asset('resources/images/carousel/digital-marketing.gif')}}" alt="Digital Marketing" class="scale-150"/>
             </x-slot>
         </x-carousel.itemType01>
         <!-- Item 4 -->
         <x-carousel.itemType02>
             <x-slot name="heading">
-                Building digital <br>products & brands.
+                Build Websites, Build Your Future : Get Paid to Code
             </x-slot>
             <x-slot name="description">
-                This free and open-source landing page template was built using the utility classes from <a href="https://tailwindcss.com" class="hover:underline">
-                    Tailwind CSS</a> and based on the components from the <a href="https://flowbite.com/docs/getting-started/introduction/" class="hover:underline">
-                    Flowbite Library</a> and the <a href="https://flowbite.com/blocks/" class="hover:underline">Blocks System</a>
+                From simple sites to complex systems, your coding skills can finally pay off big time. Let us connect you with opportunities that value your hard work.
             </x-slot>
             <x-slot name="image">
-                <x-images.image src="{{Vite::asset('resources/images/g.png')}}" alt="hero image"/>
+                <x-images.image src="{{Vite::asset('resources/images/g.png')}}" alt="Web Development" class="scale-150"/>
             </x-slot>
         </x-carousel.itemType02>
         <!-- Item 5 -->
         <x-carousel.itemType01>
             <x-slot name="heading">
-                Building digital <br>products & brands.
+                Create in 3D, Earn in Real Life : Make Your Ideas Pay Off
             </x-slot>
             <x-slot name="description">
-                This free and open-source landing page template was built using the utility classes from <a href="https://tailwindcss.com" class="hover:underline">
-                    Tailwind CSS</a> and based on the components from the <a href="https://flowbite.com/docs/getting-started/introduction/" class="hover:underline">
-                    Flowbite Library</a> and the <a href="https://flowbite.com/blocks/" class="hover:underline">Blocks System</a>
+                If you love bringing ideas to life through 3D art, it’s time to turn that passion into profit. We’ll help you showcase your work and get rewarded for it.
             </x-slot>
             <x-slot name="image">
-                <x-images.image src="{{Vite::asset('resources/images/g.png')}}" alt="hero image"/>
+                <x-images.image src="{{Vite::asset('resources/images/g.png')}}" alt="3D Production" class="scale-150"/>
             </x-slot>
         </x-carousel.itemType01>
     </div>
