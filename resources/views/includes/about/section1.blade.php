@@ -6,13 +6,10 @@
     </div>
     <div class="sm:w-1/2 p-5">
         <div class="text">
-            <span class="text-gray-500 border-b-2 border-indigo-600 uppercase">About us</span>
-            <h2 class="my-4 font-bold text-3xl  sm:text-4xl ">About <span class="text-indigo-600">{{config('opticore.brand_name')}}</span>
+            <h2 class="my-4 font-bold text-3xl  sm:text-4xl ">About <span class="text-[#1B4071]">{{config('opticore.brand_name')}}</span>
             </h2>
             <p class="text-gray-700">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, commodi
-                doloremque, fugiat illum magni minus nisi nulla numquam obcaecati placeat quia, repellat tempore
-                voluptatum.
+                At Opticore Solutions Limited, we believe in the transformative power of creativity to elevate brands and drive business growth. Our mission is simple yet profound: to help you communicate your brand effectively and make a lasting impact in your industry.
             </p>
         </div>
     </div>

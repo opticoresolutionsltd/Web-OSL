@@ -8,5 +8,6 @@
     @include('includes.services.digital marketing.section1')
     @include('includes.services.digital marketing.section2')
     @include('includes.services.digital marketing.section3')
+    @include('includes.message.float-icon');
     @include('includes.basic.footer')
 @endsection

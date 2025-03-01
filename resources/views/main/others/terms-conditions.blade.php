@@ -6,5 +6,6 @@
     <body lang="en">
     @include('includes.basic.header')
     @include('includes.terms.section1')
+    @include('includes.message.float-icon');
     @include('includes.basic.footer')
 @endsection

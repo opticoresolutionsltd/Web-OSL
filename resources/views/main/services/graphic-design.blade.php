@@ -8,5 +8,6 @@
     @include('includes.services.graphic design.section1')
     @include('includes.services.graphic design.section2')
     @include('includes.services.graphic design.section3')
+    @include('includes.message.float-icon');
     @include('includes.basic.footer')
 @endsection

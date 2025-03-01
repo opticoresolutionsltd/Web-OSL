@@ -8,5 +8,6 @@
     @include('includes.services.3d production.section1');
     @include('includes.services.3d production.section2');
     @include('includes.services.3d production.section3');
+    @include('includes.message.float-icon');
     @include('includes.basic.footer')
 @endsection
