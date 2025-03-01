@@ -28,7 +28,7 @@ function updateCarousel() {
 }
 
 function updateDots() {
-    const dots = document.querySelectorAll('.rounded-full');
+    const dots = document.querySelectorAll('.team-nav-dot');
     dots.forEach((dot, index) => {
         dot.classList.toggle('bg-indigo-600', index === currentSlide);
         dot.classList.toggle('bg-gray-300', index !== currentSlide);

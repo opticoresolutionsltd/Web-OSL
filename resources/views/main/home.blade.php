@@ -10,5 +10,6 @@
         @include('includes.home.section3')
         @include('includes.home.section4')
         @include('includes.home.section5')
+        @include('includes.message.float-icon');
         @include('includes.basic.footer')
 @endsection

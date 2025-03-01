@@ -115,9 +115,9 @@
             </button>
 
             <div class="flex justify-center mt-8 gap-2">
-                <button aria-label="Go to slide 1" class="w-3 h-3 rounded-full bg-indigo-600" onclick="goToSlide(0)"></button>
-                <button aria-label="Go to slide 2" class="w-3 h-3 rounded-full bg-gray-300" onclick="goToSlide(1)"></button>
-                <button aria-label="Go to slide 3" class="w-3 h-3 rounded-full bg-gray-300" onclick="goToSlide(2)"></button>
+                <button aria-label="Go to slide 1" class="w-3 h-3 team-nav-dot rounded-full bg-indigo-600" onclick="goToSlide(0)"></button>
+                <button aria-label="Go to slide 2" class="w-3 h-3 team-nav-dot rounded-full bg-gray-300" onclick="goToSlide(1)"></button>
+                <button aria-label="Go to slide 3" class="w-3 h-3 team-nav-dot rounded-full bg-gray-300" onclick="goToSlide(2)"></button>
             </div>
         </div>
     </div>
