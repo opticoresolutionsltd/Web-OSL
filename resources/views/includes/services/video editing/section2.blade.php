@@ -71,7 +71,7 @@
 
     <x-services.sectionRToL>
         <x-slot name="imageSrc">
-            {{Vite::asset('resources/images/4280794.jpg')}}
+            {{Vite::asset('resources/images/services/video editing/video-reels.png')}}
         </x-slot>
         <x-slot name="heading">
             Reels

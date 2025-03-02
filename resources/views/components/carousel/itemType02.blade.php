@@ -1,5 +1,5 @@
 <div class="hidden duration-1000 ease-in-out" data-carousel-item="{{$attributes->get('data-carousel-item')}}">
-    <div class="grid max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
+    <div class="grid max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-10 lg:py-16 lg:grid-cols-12 lg:pt-28">
         <div class="hidden lg:mt-0 lg:col-span-5 lg:flex pr-20">
             {{$image}}
         </div>
