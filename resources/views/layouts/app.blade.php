@@ -15,7 +15,7 @@
 </head>
         @yield('container')
         @include('includes.assets.scripts')
-        @if(Route::currentRouteName() == 'home')
+        @if(Route::currentRouteName() == 'home' || Route::currentRouteName() == 'about-us' )
             <script src="https://cdn.jsdelivr.net/npm/@srexi/purecounterjs/dist/purecounter_vanilla.js"></script>
             <script>
                 document.addEventListener('DOMContentLoaded', function() {

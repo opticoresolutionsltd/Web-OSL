@@ -13,7 +13,7 @@ Route::controller(GuestRouteController::class)->group(function(){
     Route::get('/contact', 'contact')->name('contact');
     Route::get('/portfolio', 'portfolio')->name('portfolio');
     Route::get('/faq', 'faq')->name('faq');
-    Route::get('/about-us', 'about')->name('about');
+    Route::get('/about-us', 'about')->name('about-us');
     Route::get('/privacy-policy', 'privacy')->name('privacy-policy');
     Route::get('/terms-conditions', 'terms')->name('terms-conditions');
 });
