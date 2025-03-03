@@ -26,7 +26,7 @@
                 <div>
                     <h3 class="text-lg font-semibold  mb-4">Company</h3>
                     <ul class="space-y-2">
-                        <li><a href="#" class="hover:text-gray-400 transition-colors duration-300">About Us</a></li>
+                        <li><a href="{{route('about-us')}}" class="hover:text-gray-400 transition-colors duration-300">About Us</a></li>
                         <li><a href="#" class="hover:text-gray-400 transition-colors duration-300">Services</a></li>
                         <li><a href="#" class="hover:text-gray-400 transition-colors duration-300">Portfolio</a></li>
                     </ul>
@@ -34,9 +34,9 @@
                 <div>
                     <h3 class="text-lg font-semibold mb-4">Support</h3>
                     <ul class="space-y-2">
-                        <li><a href="#" class="hover:text-gray-400 transition-colors duration-300">Terms & Conditions</a></li>
-                        <li><a href="#" class="hover:text-gray-400 transition-colors duration-300">Privacy Policy</a></li>
-                        <li><a href="#" class="hover:text-gray-400 transition-colors duration-300">About</a></li>
+                        <li><a href="{{route('terms-conditions')}}" class="hover:text-gray-400 transition-colors duration-300">Terms & Conditions</a></li>
+                        <li><a href="{{route('privacy-policy')}}" class="hover:text-gray-400 transition-colors duration-300">Privacy Policy</a></li>
+                        <li><a href="{{route('about-us')}}" class="hover:text-gray-400 transition-colors duration-300">About</a></li>
                     </ul>
                 </div>
             </div>
