@@ -1,0 +1,284 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-DK-v93ci.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/home/app.css": {
+    "file": "assets/app-B1V8L1KQ.css",
+    "src": "resources/css/home/app.css",
+    "isEntry": true
+  },
+  "resources/css/services/app.css": {
+    "file": "assets/app-9eltmSA-.css",
+    "src": "resources/css/services/app.css",
+    "isEntry": true
+  },
+  "resources/images/4280794.jpg": {
+    "file": "assets/4280794-DKDbrX_C.jpg",
+    "src": "resources/images/4280794.jpg"
+  },
+  "resources/images/4422913.jpg": {
+    "file": "assets/4422913-B_vLOdxw.jpg",
+    "src": "resources/images/4422913.jpg"
+  },
+  "resources/images/59361.jpg": {
+    "file": "assets/59361-BWK31-hF.jpg",
+    "src": "resources/images/59361.jpg"
+  },
+  "resources/images/TEST.gif": {
+    "file": "assets/TEST-BpO0Zypx.gif",
+    "src": "resources/images/TEST.gif"
+  },
+  "resources/images/about-us.png": {
+    "file": "assets/about-us-4p-SBcg9.png",
+    "src": "resources/images/about-us.png"
+  },
+  "resources/images/about/choose/commitment-quality.svg": {
+    "file": "assets/commitment-quality-CPfeL33M.svg",
+    "src": "resources/images/about/choose/commitment-quality.svg"
+  },
+  "resources/images/about/choose/end-end-services.svg": {
+    "file": "assets/end-end-services-6KZzjlj8.svg",
+    "src": "resources/images/about/choose/end-end-services.svg"
+  },
+  "resources/images/about/choose/expert-team.svg": {
+    "file": "assets/expert-team-ZFcFLlIg.svg",
+    "src": "resources/images/about/choose/expert-team.svg"
+  },
+  "resources/images/about/choose/tailored-solutions.svg": {
+    "file": "assets/tailored-solutions-D0-dy5Mg.svg",
+    "src": "resources/images/about/choose/tailored-solutions.svg"
+  },
+  "resources/images/about/choose/transparent-communication.svg": {
+    "file": "assets/transparent-communication-CVJBUN_M.svg",
+    "src": "resources/images/about/choose/transparent-communication.svg"
+  },
+  "resources/images/about/values/collaboration.svg": {
+    "file": "assets/collaboration-CERlGIbO.svg",
+    "src": "resources/images/about/values/collaboration.svg"
+  },
+  "resources/images/about/values/creativity.svg": {
+    "file": "assets/creativity-CskPRs8Q.svg",
+    "src": "resources/images/about/values/creativity.svg"
+  },
+  "resources/images/about/values/excellence.svg": {
+    "file": "assets/excellence-DkOjxH1F.svg",
+    "src": "resources/images/about/values/excellence.svg"
+  },
+  "resources/images/about/values/impact.svg": {
+    "file": "assets/impact-BdNVNI96.svg",
+    "src": "resources/images/about/values/impact.svg"
+  },
+  "resources/images/about/values/integrity.svg": {
+    "file": "assets/integrity-gGXakGC1.svg",
+    "src": "resources/images/about/values/integrity.svg"
+  },
+  "resources/images/carousel/digital-marketing.gif": {
+    "file": "assets/digital-marketing-6BsLkiZa.gif",
+    "src": "resources/images/carousel/digital-marketing.gif"
+  },
+  "resources/images/carousel/graphic-design.gif": {
+    "file": "assets/graphic-design-C6QxaB5Z.gif",
+    "src": "resources/images/carousel/graphic-design.gif"
+  },
+  "resources/images/favicon/Opticore Solutions Ltd.ico": {
+    "file": "assets/Opticore Solutions Ltd-CAhtHaOw.ico",
+    "src": "resources/images/favicon/Opticore Solutions Ltd.ico"
+  },
+  "resources/images/five.jpg": {
+    "file": "assets/five-5n8_uTzp.jpg",
+    "src": "resources/images/five.jpg"
+  },
+  "resources/images/g.png": {
+    "file": "assets/g-yiT-CIR3.png",
+    "src": "resources/images/g.png"
+  },
+  "resources/images/logo/customers/3m.svg": {
+    "file": "assets/3m-DtohWEJx.svg",
+    "src": "resources/images/logo/customers/3m.svg"
+  },
+  "resources/images/logo/customers/barstool-store.svg": {
+    "file": "assets/barstool-store-B1wd-oEt.svg",
+    "src": "resources/images/logo/customers/barstool-store.svg"
+  },
+  "resources/images/logo/customers/budweiser.svg": {
+    "file": "assets/budweiser-avMGXuo2.svg",
+    "src": "resources/images/logo/customers/budweiser.svg"
+  },
+  "resources/images/logo/customers/buzzfeed.svg": {
+    "file": "assets/buzzfeed-jDPk1yFc.svg",
+    "src": "resources/images/logo/customers/buzzfeed.svg"
+  },
+  "resources/images/logo/customers/forbes.svg": {
+    "file": "assets/forbes-CfYywVor.svg",
+    "src": "resources/images/logo/customers/forbes.svg"
+  },
+  "resources/images/logo/customers/macys.svg": {
+    "file": "assets/macys-D3_Tt1up.svg",
+    "src": "resources/images/logo/customers/macys.svg"
+  },
+  "resources/images/logo/customers/menshealth.svg": {
+    "file": "assets/menshealth-CREJheFH.svg",
+    "src": "resources/images/logo/customers/menshealth.svg"
+  },
+  "resources/images/logo/customers/mrbeast.svg": {
+    "file": "assets/mrbeast-BSeKl_ZX.svg",
+    "src": "resources/images/logo/customers/mrbeast.svg"
+  },
+  "resources/images/logo/opticore-logo-alt.png": {
+    "file": "assets/opticore-logo-alt-CcXdVNXf.png",
+    "src": "resources/images/logo/opticore-logo-alt.png"
+  },
+  "resources/images/logo/opticore-logo-full.png": {
+    "file": "assets/opticore-logo-full-udTpPdhm.png",
+    "src": "resources/images/logo/opticore-logo-full.png"
+  },
+  "resources/images/services/3d production/3d-printing.png": {
+    "file": "assets/3d-printing-CgXlf23o.png",
+    "src": "resources/images/services/3d production/3d-printing.png"
+  },
+  "resources/images/services/3d production/architecture-interior.png": {
+    "file": "assets/architecture-interior-mkUsrwJN.png",
+    "src": "resources/images/services/3d production/architecture-interior.png"
+  },
+  "resources/images/services/3d production/modeling-rendering.png": {
+    "file": "assets/modeling-rendering-DdtQ7Noo.png",
+    "src": "resources/images/services/3d production/modeling-rendering.png"
+  },
+  "resources/images/services/3d production/product-modeling-animation.png": {
+    "file": "assets/product-modeling-animation-DfJBhi_7.png",
+    "src": "resources/images/services/3d production/product-modeling-animation.png"
+  },
+  "resources/images/services/digital marketing/affiliate-marketing.png": {
+    "file": "assets/affiliate-marketing-C_cOwE8X.png",
+    "src": "resources/images/services/digital marketing/affiliate-marketing.png"
+  },
+  "resources/images/services/digital marketing/e-mail-marketing.png": {
+    "file": "assets/e-mail-marketing-DW8-7Y3q.png",
+    "src": "resources/images/services/digital marketing/e-mail-marketing.png"
+  },
+  "resources/images/services/digital marketing/influencer-marketing.png": {
+    "file": "assets/influencer-marketing-DZma-H-g.png",
+    "src": "resources/images/services/digital marketing/influencer-marketing.png"
+  },
+  "resources/images/services/digital marketing/marketing-automation.png": {
+    "file": "assets/marketing-automation-C3_RdVlU.png",
+    "src": "resources/images/services/digital marketing/marketing-automation.png"
+  },
+  "resources/images/services/digital marketing/seo.png": {
+    "file": "assets/seo-MJHN1Yqq.png",
+    "src": "resources/images/services/digital marketing/seo.png"
+  },
+  "resources/images/services/digital marketing/social-media-marketing.png": {
+    "file": "assets/social-media-marketing-2bYTo3h1.png",
+    "src": "resources/images/services/digital marketing/social-media-marketing.png"
+  },
+  "resources/images/services/graphics design/illustration.png": {
+    "file": "assets/illustration-DoUulFPo.png",
+    "src": "resources/images/services/graphics design/illustration.png"
+  },
+  "resources/images/services/graphics design/logo-identity.png": {
+    "file": "assets/logo-identity-CLUF0oHZ.png",
+    "src": "resources/images/services/graphics design/logo-identity.png"
+  },
+  "resources/images/services/graphics design/packaging-design.png": {
+    "file": "assets/packaging-design-BMTRx9d7.png",
+    "src": "resources/images/services/graphics design/packaging-design.png"
+  },
+  "resources/images/services/graphics design/photoshop-editing.png": {
+    "file": "assets/photoshop-editing-DLWVz0bW.png",
+    "src": "resources/images/services/graphics design/photoshop-editing.png"
+  },
+  "resources/images/services/graphics design/product-design.png": {
+    "file": "assets/product-design-BGWjSRar.png",
+    "src": "resources/images/services/graphics design/product-design.png"
+  },
+  "resources/images/services/graphics design/social-media-design.png": {
+    "file": "assets/social-media-design-DTCvA6OJ.png",
+    "src": "resources/images/services/graphics design/social-media-design.png"
+  },
+  "resources/images/services/video editing/branding-promotional-video.png": {
+    "file": "assets/branding-promotional-video-Bye42uPO.png",
+    "src": "resources/images/services/video editing/branding-promotional-video.png"
+  },
+  "resources/images/services/video editing/documentary-video.png": {
+    "file": "assets/documentary-video-BgksK9I8.png",
+    "src": "resources/images/services/video editing/documentary-video.png"
+  },
+  "resources/images/services/video editing/explainer-video.png": {
+    "file": "assets/explainer-video-DDm1qgTY.png",
+    "src": "resources/images/services/video editing/explainer-video.png"
+  },
+  "resources/images/services/video editing/motion-video.png": {
+    "file": "assets/motion-video-BAkZxz_Y.png",
+    "src": "resources/images/services/video editing/motion-video.png"
+  },
+  "resources/images/services/video editing/social-media-video.png": {
+    "file": "assets/social-media-video-CBw1i4L5.png",
+    "src": "resources/images/services/video editing/social-media-video.png"
+  },
+  "resources/images/services/video editing/video-editing.png": {
+    "file": "assets/video-editing-CLbPXspL.png",
+    "src": "resources/images/services/video editing/video-editing.png"
+  },
+  "resources/images/services/video editing/video-reels.png": {
+    "file": "assets/video-reels-Bp7rQEAy.png",
+    "src": "resources/images/services/video editing/video-reels.png"
+  },
+  "resources/images/services/video editing/youtube-video-editing.png": {
+    "file": "assets/youtube-video-editing-dlzeVPGZ.png",
+    "src": "resources/images/services/video editing/youtube-video-editing.png"
+  },
+  "resources/images/services/web development/business-website.png": {
+    "file": "assets/business-website-9E0pYU0D.png",
+    "src": "resources/images/services/web development/business-website.png"
+  },
+  "resources/images/services/web development/corporate-website.png": {
+    "file": "assets/corporate-website-BoqaFeCb.png",
+    "src": "resources/images/services/web development/corporate-website.png"
+  },
+  "resources/images/services/web development/e-commerce-website.png": {
+    "file": "assets/e-commerce-website-qFgHk1nG.png",
+    "src": "resources/images/services/web development/e-commerce-website.png"
+  },
+  "resources/images/services/web development/portfolio-website.png": {
+    "file": "assets/portfolio-website-CRSNM5j-.png",
+    "src": "resources/images/services/web development/portfolio-website.png"
+  },
+  "resources/images/services/web development/website-maintenace.png": {
+    "file": "assets/website-maintenace-DCP5nUpi.png",
+    "src": "resources/images/services/web development/website-maintenace.png"
+  },
+  "resources/images/team.jpg": {
+    "file": "assets/team-adxniE6_.jpg",
+    "src": "resources/images/team.jpg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Cv_1mocD.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "resources/js/common/app.js"
+    ]
+  },
+  "resources/js/common/app.js": {
+    "file": "assets/app-B81aEArM.js",
+    "name": "app",
+    "src": "resources/js/common/app.js",
+    "isEntry": true
+  },
+  "resources/js/home/app.js": {
+    "file": "assets/app-B-SlaqQk.js",
+    "name": "app",
+    "src": "resources/js/home/app.js",
+    "isEntry": true
+  },
+  "resources/js/services/app.js": {
+    "file": "assets/app-CAbiav22.js",
+    "name": "app",
+    "src": "resources/js/services/app.js",
+    "isEntry": true
+  }
+}

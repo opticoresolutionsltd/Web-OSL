@@ -1,4 +1,4 @@
-<x-carousel.itemType03 style="background-image: url('{{Vite::asset('resources/images/five.jpg')}}')">
+<x-carousel.itemType03 style="background-image: url('{{Vite::asset('resources/images/services/cover/video-editing.jpg')}}')">
     <x-slot name="heading">
         Video Editing
     </x-slot>

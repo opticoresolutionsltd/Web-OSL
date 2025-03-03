@@ -8,7 +8,7 @@
                 {{$description}}
             </p>
         </div>
-        <div class="hidden lg:mt-0 lg:col-span-5 lg:flex lg:h-auto">
+        <div class="hidden lg:mt-0 lg:col-span-5 lg:flex lg:h-auto lg:w-auto">
             {{$image}}
         </div>
     </div>

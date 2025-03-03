@@ -1,4 +1,4 @@
-<x-carousel.itemType03 style="background-image: url('{{Vite::asset('resources/images/five.jpg')}}')">
+<x-carousel.itemType03 style="background-image: url('{{Vite::asset('resources/images/services/cover/3d-production.jpg')}}')">
     <x-slot name="heading">
         3D Design
     </x-slot>

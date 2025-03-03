@@ -10,7 +10,7 @@
                 Love creating eye-catching visuals? With Opticore Solutions Ltd., your designs don’t just impress—they make you money. Show off your talent and get paid what you truly deserve.
             </x-slot>
             <x-slot name="image">
-                <x-images.image src="{{Vite::asset('resources/images/carousel/graphic-design.gif')}}" alt="Graphic Design" class="scale-150"/>
+                <x-images.image src="{{Vite::asset('resources/images/graphic-design.gif')}}" alt="Graphic Design" class="scale-150"/>
             </x-slot>
         </x-carousel.itemType01>
         <!-- Item 2 -->
@@ -22,7 +22,7 @@
                 Whether you’re cutting clips or crafting stories, your video skills can now bring home the cash. Join us, save time, and let your work speak for itself.
             </x-slot>
             <x-slot name="image">
-                <x-images.image src="{{Vite::asset('resources/images/g.png')}}" alt="Video Editing" class="scale-150"/>
+                <x-images.image src="{{Vite::asset('resources/images/video-editing.gif')}}" alt="Video Editing" class="scale-150"/>
             </x-slot>
         </x-carousel.itemType02>
         <!-- Item 3 -->
@@ -34,7 +34,7 @@
                 Got a knack for boosting businesses online? Use your marketing magic on our platform to earn more while making an impact that matters.
             </x-slot>
             <x-slot name="image">
-                <x-images.image src="{{Vite::asset('resources/images/carousel/digital-marketing.gif')}}" alt="Digital Marketing" class="scale-150"/>
+                <x-images.image src="{{Vite::asset('resources/images/digital-marketing.gif')}}" alt="Digital Marketing" class="scale-150"/>
             </x-slot>
         </x-carousel.itemType01>
         <!-- Item 4 -->
@@ -46,7 +46,7 @@
                 From simple sites to complex systems, your coding skills can finally pay off big time. Let us connect you with opportunities that value your hard work.
             </x-slot>
             <x-slot name="image">
-                <x-images.image src="{{Vite::asset('resources/images/g.png')}}" alt="Web Development" class="scale-150"/>
+                <x-images.image src="{{Vite::asset('resources/images/website-development.gif')}}" alt="Web Development" class="scale-150"/>
             </x-slot>
         </x-carousel.itemType02>
         <!-- Item 5 -->
@@ -58,7 +58,7 @@
                 If you love bringing ideas to life through 3D art, it’s time to turn that passion into profit. We’ll help you showcase your work and get rewarded for it.
             </x-slot>
             <x-slot name="image">
-                <x-images.image src="{{Vite::asset('resources/images/g.png')}}" alt="3D Production" class="scale-150"/>
+                <x-images.image src="{{Vite::asset('resources/images/3d-editing.gif')}}" alt="3D Production" class="scale-150"/>
             </x-slot>
         </x-carousel.itemType01>
     </div>
