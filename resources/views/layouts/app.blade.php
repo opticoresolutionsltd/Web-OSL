@@ -9,7 +9,9 @@
     <meta name="author" content="Opticore Solutions Ltd.">
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=figtree:400,500,600&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+    @if(Route::currentRouteName() == 'home')
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+    @endif
     <link rel="icon" href="{{ Vite::asset('resources/images/favicon/Opticore Solutions Ltd.ico') }}" type="image/x-icon"/>
     @include('includes.assets.styles')
 </head>
@@ -23,6 +25,8 @@
                 });
             </script>
         @endif
-        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+        @if(Route::currentRouteName() == 'home')
+            <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+        @endif
     </body>
 </html>
