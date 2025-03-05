@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('title')
-    <x-titles.title>Terms & Conditions - Opticore Solutions Limited</x-titles.title>
+    <x-titles.title>Terms & Conditions - {{config('opticore.brand_name_absolute')}}</x-titles.title>
 @endsection
 @section('meta-tags')
     <meta name="description" content="{{config('opticore.brand_name')}}">
@@ -11,7 +11,7 @@
     <meta property="og:locale" content="en_US">
     <meta property="og:image" content="">
     <meta property="og:type" content="website">
-    <meta property="og:site_name" content="Opticore Solutions Ltd.">
+    <meta property="og:site_name" content="{{config('opticore.brand_name')}}">
 @endsection
 @section('container')
     <body lang="en">

@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('title')
-    <x-titles.title>About Us - Opticore Solutions Limited</x-titles.title>
+    <x-titles.title>About Us - {{config('opticore.brand_name_absolute')}}</x-titles.title>
 @endsection
 @section('meta-tags')
     <meta name="description" content="{{config('opticore.brand_name')}}">
