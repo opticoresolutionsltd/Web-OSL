@@ -1,11 +1,11 @@
 {
   "resources/css/app.css": {
-    "file": "assets/app-DK-v93ci.css",
+    "file": "assets/app-CABM4zxS.css",
     "src": "resources/css/app.css",
     "isEntry": true
   },
   "resources/css/home/app.css": {
-    "file": "assets/app-B1V8L1KQ.css",
+    "file": "assets/app-CV53xLQg.css",
     "src": "resources/css/home/app.css",
     "isEntry": true
   },
@@ -13,6 +13,10 @@
     "file": "assets/app-9eltmSA-.css",
     "src": "resources/css/services/app.css",
     "isEntry": true
+  },
+  "resources/images/3d-editing.gif": {
+    "file": "assets/3d-editing-BX4j6yPl.gif",
+    "src": "resources/images/3d-editing.gif"
   },
   "resources/images/4280794.jpg": {
     "file": "assets/4280794-DKDbrX_C.jpg",
@@ -82,6 +86,10 @@
     "file": "assets/graphic-design-C6QxaB5Z.gif",
     "src": "resources/images/carousel/graphic-design.gif"
   },
+  "resources/images/digital-marketing.gif": {
+    "file": "assets/digital-marketing-6BsLkiZa.gif",
+    "src": "resources/images/carousel/digital-marketing.gif"
+  },
   "resources/images/favicon/Opticore Solutions Ltd.ico": {
     "file": "assets/Opticore Solutions Ltd-CAhtHaOw.ico",
     "src": "resources/images/favicon/Opticore Solutions Ltd.ico"
@@ -94,37 +102,33 @@
     "file": "assets/g-yiT-CIR3.png",
     "src": "resources/images/g.png"
   },
-  "resources/images/logo/customers/3m.svg": {
-    "file": "assets/3m-DtohWEJx.svg",
-    "src": "resources/images/logo/customers/3m.svg"
+  "resources/images/graphic-design.gif": {
+    "file": "assets/graphic-design-C6QxaB5Z.gif",
+    "src": "resources/images/carousel/graphic-design.gif"
   },
-  "resources/images/logo/customers/barstool-store.svg": {
-    "file": "assets/barstool-store-B1wd-oEt.svg",
-    "src": "resources/images/logo/customers/barstool-store.svg"
+  "resources/images/logo/customers/alliance-beverage-agro.svg": {
+    "file": "assets/alliance-beverage-agro-DVU3z4up.svg",
+    "src": "resources/images/logo/customers/alliance-beverage-agro.svg"
   },
-  "resources/images/logo/customers/budweiser.svg": {
-    "file": "assets/budweiser-avMGXuo2.svg",
-    "src": "resources/images/logo/customers/budweiser.svg"
+  "resources/images/logo/customers/alliance-brokerage.svg": {
+    "file": "assets/alliance-brokerage-CGYs6pSh.svg",
+    "src": "resources/images/logo/customers/alliance-brokerage.svg"
   },
-  "resources/images/logo/customers/buzzfeed.svg": {
-    "file": "assets/buzzfeed-jDPk1yFc.svg",
-    "src": "resources/images/logo/customers/buzzfeed.svg"
+  "resources/images/logo/customers/alliance-construction.svg": {
+    "file": "assets/alliance-construction-CTBKzaye.svg",
+    "src": "resources/images/logo/customers/alliance-construction.svg"
   },
-  "resources/images/logo/customers/forbes.svg": {
-    "file": "assets/forbes-CfYywVor.svg",
-    "src": "resources/images/logo/customers/forbes.svg"
+  "resources/images/logo/customers/alliance-success-builders.svg": {
+    "file": "assets/alliance-success-builders-C9Xuh1Rg.svg",
+    "src": "resources/images/logo/customers/alliance-success-builders.svg"
   },
-  "resources/images/logo/customers/macys.svg": {
-    "file": "assets/macys-D3_Tt1up.svg",
-    "src": "resources/images/logo/customers/macys.svg"
+  "resources/images/logo/customers/alliance.svg": {
+    "file": "assets/alliance-C6xULySM.svg",
+    "src": "resources/images/logo/customers/alliance.svg"
   },
-  "resources/images/logo/customers/menshealth.svg": {
-    "file": "assets/menshealth-CREJheFH.svg",
-    "src": "resources/images/logo/customers/menshealth.svg"
-  },
-  "resources/images/logo/customers/mrbeast.svg": {
-    "file": "assets/mrbeast-BSeKl_ZX.svg",
-    "src": "resources/images/logo/customers/mrbeast.svg"
+  "resources/images/logo/customers/hotel-jana.svg": {
+    "file": "assets/hotel-jana-BCQtoNM6.svg",
+    "src": "resources/images/logo/customers/hotel-jana.svg"
   },
   "resources/images/logo/opticore-logo-alt.png": {
     "file": "assets/opticore-logo-alt-CcXdVNXf.png",
@@ -149,6 +153,26 @@
   "resources/images/services/3d production/product-modeling-animation.png": {
     "file": "assets/product-modeling-animation-DfJBhi_7.png",
     "src": "resources/images/services/3d production/product-modeling-animation.png"
+  },
+  "resources/images/services/cover/3d-production.jpg": {
+    "file": "assets/3d-production-DfaLjIee.jpg",
+    "src": "resources/images/services/cover/3d-production.jpg"
+  },
+  "resources/images/services/cover/digital-marketing.jpg": {
+    "file": "assets/digital-marketing-CpTJ_sKE.jpg",
+    "src": "resources/images/services/cover/digital-marketing.jpg"
+  },
+  "resources/images/services/cover/graphic-design.jpg": {
+    "file": "assets/graphic-design-BajfWw8e.jpg",
+    "src": "resources/images/services/cover/graphic-design.jpg"
+  },
+  "resources/images/services/cover/video-editing.jpg": {
+    "file": "assets/video-editing-DUr63kdC.jpg",
+    "src": "resources/images/services/cover/video-editing.jpg"
+  },
+  "resources/images/services/cover/web-development.jpg": {
+    "file": "assets/web-development-Cv5jgTXq.jpg",
+    "src": "resources/images/services/cover/web-development.jpg"
   },
   "resources/images/services/digital marketing/affiliate-marketing.png": {
     "file": "assets/affiliate-marketing-C_cOwE8X.png",
@@ -254,6 +278,14 @@
     "file": "assets/team-adxniE6_.jpg",
     "src": "resources/images/team.jpg"
   },
+  "resources/images/video-editing.gif": {
+    "file": "assets/video-editing-CfXkJ1eR.gif",
+    "src": "resources/images/video-editing.gif"
+  },
+  "resources/images/website-development.gif": {
+    "file": "assets/website-development-2OyZS87j.gif",
+    "src": "resources/images/website-development.gif"
+  },
   "resources/js/app.js": {
     "file": "assets/app-Cv_1mocD.js",
     "name": "app",
@@ -270,7 +302,7 @@
     "isEntry": true
   },
   "resources/js/home/app.js": {
-    "file": "assets/app-B-SlaqQk.js",
+    "file": "assets/app-DhIsc_Ge.js",
     "name": "app",
     "src": "resources/js/home/app.js",
     "isEntry": true
