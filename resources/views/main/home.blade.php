@@ -21,13 +21,13 @@
     <meta name="twitter:image:alt" content="{{config('opticore.brand_name')}}">
     <meta name="twitter:creator" content="@osl_opticore">
 @endsection
-@section('container')<body lang="en">
+@section('container')<body lang="en" class="bg-blue-50">
         @include('includes.basic.header')
         @include('includes.home.section1')
         @include('includes.home.section2')
         @include('includes.home.section3')
         @include('includes.home.section4')
         @include('includes.home.section5')
-        @include('includes.message.float-icon');
+        @include('includes.message.float-icon')
         @include('includes.basic.footer')
 @endsection

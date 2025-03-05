@@ -1,8 +1,8 @@
-<section class="py-24" >
+<section class="py-24 bg-white" >
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="mb-16 ">
-            <h2 class="text-4xl text-center font-extrabold text-gray-900 ">What Our Clients Say About Us</h2>
-            <span class="mt-4 text-md text-gray-500 font-medium text-center block mb-2">Don’t just take our word for it—hear from those who’ve experienced the Opticore difference.<br>With a 4.9-star rating, our clients trust us to deliver results that exceed expectations.</span>
+            <h2 class="text-5xl text-center font-extrabold text-gray-900 ">What Our Clients Say About Us</h2>
+            <span class="mt-4 text-lg text-gray-500 font-medium text-center block mb-2">Don’t just take our word for it—hear from those who’ve experienced the Opticore difference.<br>With a 4.9-star rating, our clients trust us to deliver results that exceed expectations.</span>
         </div>
         <!--Slider wrapper-->
 

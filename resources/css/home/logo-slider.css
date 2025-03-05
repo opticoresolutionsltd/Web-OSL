@@ -29,12 +29,12 @@
 
 .logos:before {
     left: 0;
-    background: linear-gradient(to left, rgba(255, 255, 255, 0), white);
+    background: linear-gradient(to left, rgba(255, 255, 255, 0), transparent);
 }
 
 .logos:after {
     right: 0;
-    background: linear-gradient(to right, rgba(255, 255, 255, 0), white);
+    background: linear-gradient(to right, rgba(255, 255, 255, 0), transparent);
 }
 
 .logos:hover .logos-slide {
@@ -43,12 +43,11 @@
 
 .logos-slide {
     display: flex;
-    animation: 45s slide infinite linear;
+    animation: 20s slide infinite linear;
     margin-left: inherit;
     margin-right: inherit;
 }
 
 .logos-slide img {
-    height: 30px;
     margin: 0 40px;
 }

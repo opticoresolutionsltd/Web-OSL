@@ -1,4 +1,4 @@
-<h2 class="py-12 mt-14 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl bg-gray-50">
+<h2 class="py-12 text-center text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl bg-gray-50">
     About us
 </h2>
 

@@ -36,7 +36,7 @@
                     <ul class="space-y-2">
                         <li><a href="{{route('terms-conditions')}}" class="hover:text-gray-400 transition-colors duration-300">Terms & Conditions</a></li>
                         <li><a href="{{route('privacy-policy')}}" class="hover:text-gray-400 transition-colors duration-300">Privacy Policy</a></li>
-                        <li><a href="{{route('about-us')}}" class="hover:text-gray-400 transition-colors duration-300">About</a></li>
+                        <li><a href="{{route('faq')}}" class="hover:text-gray-400 transition-colors duration-300">FAQs'</a></li>
                     </ul>
                 </div>
             </div>
