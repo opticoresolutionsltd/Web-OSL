@@ -4,6 +4,7 @@ return [
     'brand_name_absolute' => 'Opticore Solutions Limited',
     'email_address' => 'osl@opticoresolutionsltd.com',
     'phone_number' => '+88-01896204400',
+    'url' => 'https://www.opticoresolutionsltd.com/',
     'social_links' => [
         'facebook' => 'https://www.facebook.com/opticoresolutionsltd',
         'youtube' => 'https://www.youtube.com/@OpticoreSolutionsLtd',

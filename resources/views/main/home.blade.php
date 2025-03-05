@@ -5,9 +5,10 @@
 @section('meta-tags')
     <meta name="description" content="{{config('opticore.brand_name')}}">
     <meta name="keywords" content="key1, key2, key3">
+    <link rel="canonical" href="{{config('opticore.url')}}">
     <meta property="og:title" content="Home - {{config('opticore.brand_name')}}">
     <meta property="og:description" content="Affordable Services for All">
-    <meta property="og:url" content="https://www.opticoresolutionsltd.com/">
+    <meta property="og:url" content="{{config('opticore.url')}}">
     <meta property="og:locale" content="en_US">
     <meta property="og:image" content="">
     <meta property="og:type" content="website">
