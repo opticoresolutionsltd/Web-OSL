@@ -13,6 +13,13 @@
     <meta property="og:image" content="">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="{{config('opticore.brand_name')}}">
+    <meta name="twitter:card" content="summery_large_image">
+    <meta name="twitter:title" content="Graphic Design - {{config('opticore.brand_name')}}">
+    <meta name="twitter:description" content="Affordable Services for All">
+    <meta name="twitter:site" content="@osl_opticore">
+    <meta name="twitter:image" content="">
+    <meta name="twitter:image:alt" content="{{config('opticore.brand_name')}}">
+    <meta name="twitter:creator" content="@osl_opticore">
 @endsection
 @section('container')
     <body lang="en">
