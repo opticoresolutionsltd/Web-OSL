@@ -7,15 +7,9 @@
         that are optimized for performance and conversions. From responsive design to e-commerce solutions, we’ll build a website that works for your business.
     </x-slot>
     <x-slot name="hyperLink1">
-        #
-    </x-slot>
-    <x-slot name="hyperLink2">
-        #
+        {{route('request-appointment')}}
     </x-slot>
     <x-slot name="button1Text">
         Get Started
-    </x-slot>
-    <x-slot name="button2Text">
-        Learn More
     </x-slot>
 </x-carousel.itemType03>

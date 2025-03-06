@@ -16,4 +16,5 @@ Route::controller(GuestRouteController::class)->group(function(){
     Route::get('/about-us', 'about')->name('about-us');
     Route::get('/privacy-policy', 'privacy')->name('privacy-policy');
     Route::get('/terms-conditions', 'terms')->name('terms-conditions');
+    Route::get('/request-appointment', 'requestAppointment')->name('request-appointment');
 });

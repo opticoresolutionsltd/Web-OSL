@@ -64,4 +64,9 @@ class GuestRouteController extends Controller
     {
         return view('main.others.terms-conditions');
     }
+
+    public function requestAppointment()
+    {
+        return view('main.others.appointment');
+    }
 }
