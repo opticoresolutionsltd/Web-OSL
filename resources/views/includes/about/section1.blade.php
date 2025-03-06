@@ -1,4 +1,4 @@
-<div class="sm:flex items-center place-self-center max-w-screen-xl pt-10">
+<div class="sm:flex items-center place-self-center max-w-screen-xl pt-10 mx-auto">
     <div class="sm:w-1/2 p-10">
         <div class="image object-center text-center">
             <img src="{{Vite::asset('resources/images/about-us.png')}}">
