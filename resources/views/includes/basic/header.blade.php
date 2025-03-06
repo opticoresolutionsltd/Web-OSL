@@ -5,7 +5,7 @@
         </x-hyperlinks.anchor>
         <div class="flex xl:order-2 space-x-3 xl:space-x-0 rtl:space-x-reverse">
             <x-hyperlinks.anchor href="tel:{{config('opticore.phone_number')}}">
-                <x-buttons.button type="button" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 text-center">
+                <x-buttons.button type="button" class="text-white bg-[#1B4071] hover:bg-[#2C709B] focus:ring-4 focus:outline-none focus:ring-blue-50 font-medium rounded-3xl text-sm px-4 py-2 text-center">
                     Call Us
                 </x-buttons.button>
             </x-hyperlinks.anchor>

@@ -1,5 +1,5 @@
-<div class="hidden duration-1000 ease-in-out bg-blue-50" data-carousel-item="{{$attributes->get('data-carousel-item')}}">
-    <div class="grid max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-10 lg:py-16 lg:grid-cols-12 lg:pt-28">
+<div class="hidden duration-1000 ease-in-out bg-blue-100" data-carousel-item="{{$attributes->get('data-carousel-item')}}">
+    <div class="grid max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-14 lg:py-16 lg:grid-cols-12 lg:pt-[15%] xl:pt-[12%]">
         <div class="hidden lg:mt-0 lg:col-span-6 lg:flex scale-110 w-full">
             {{$image}}
         </div>
