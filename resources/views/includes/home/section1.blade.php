@@ -1,6 +1,6 @@
 <div id="controls-carousel bg-blue-200" class="relative w-full pt-28" data-carousel="static" data-carousel-interval="5000">
     <!-- Carousel wrapper -->
-    <div class="relative h-[40svh] overflow-hidden md:h-[20rem] lg:h-[90svh]">
+    <div class="relative h-72 overflow-hidden md:h-[20rem] lg:h-[90svh]">
         <!-- Item 1 -->
         <x-carousel.itemType01 data-carousel-item="active">
             <x-slot name="heading">
