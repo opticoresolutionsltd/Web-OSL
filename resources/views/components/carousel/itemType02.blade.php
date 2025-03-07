@@ -1,4 +1,4 @@
-<div class="hidden duration-1000 ease-in-out bg-blue-100" data-carousel-item="{{$attributes->get('data-carousel-item')}}">
+<div class="hidden duration-1000 ease-in-out @if($attributes->get('bg-color')){{$attributes->get('bg-color')}}@endif" data-carousel-item="{{$attributes->get('data-carousel-item')}}">
     <div class="grid max-w-screen-xl px-4 pt-[12%] justify-center lg:mx-auto lg:px-10 lg:gap-4 xl:gap-14 lg:py-16 lg:grid-cols-12 md:pt-[8%] lg:pt-[20%] xl:pt-[14%]">
         <div class="hidden lg:mt-0 lg:col-span-6 lg:flex scale-110 w-full">
             {{$image}}

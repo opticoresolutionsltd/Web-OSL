@@ -1,8 +1,8 @@
-<div id="controls-carousel bg-blue-200" class="relative w-full pt-[72px]" data-carousel="static" data-carousel-interval="5000">
+<div id="controls-carousel" class="relative w-full pt-[72px]" data-carousel="static" data-carousel-interval="5000">
     <!-- Carousel wrapper -->
     <div class="relative h-72 overflow-hidden md:h-[20rem] lg:h-[90svh]">
         <!-- Item 1 -->
-        <x-carousel.itemType01 data-carousel-item="active">
+        <x-carousel.itemType01 data-carousel-item="active" bg-color="bg-[#EEE7F7]">
             <x-slot name="heading">
                 Your Art, Your Income : Start Earning with Your Designs
             </x-slot>
@@ -14,7 +14,7 @@
             </x-slot>
         </x-carousel.itemType01>
         <!-- Item 2 -->
-        <x-carousel.itemType02>
+        <x-carousel.itemType02 bg-color="bg-[#E4E9F1]">
             <x-slot name="heading">
                 Turn Your Edits into Earnings : It’s Time to Shine!
             </x-slot>
@@ -26,7 +26,7 @@
             </x-slot>
         </x-carousel.itemType02>
         <!-- Item 3 -->
-        <x-carousel.itemType01>
+        <x-carousel.itemType01 bg-color="bg-[#E2F2EC]">
             <x-slot name="heading">
                 Help Brands Grow, While You Grow Your Bank Account
             </x-slot>
@@ -38,7 +38,7 @@
             </x-slot>
         </x-carousel.itemType01>
         <!-- Item 4 -->
-        <x-carousel.itemType02>
+        <x-carousel.itemType02 bg-color="bg-[#E1EBEF]">
             <x-slot name="heading">
                 Build Websites, Build Your Future : Get Paid to Code
             </x-slot>
@@ -50,7 +50,7 @@
             </x-slot>
         </x-carousel.itemType02>
         <!-- Item 5 -->
-        <x-carousel.itemType01>
+        <x-carousel.itemType01 bg-color="bg-[#E3E5E1]">
             <x-slot name="heading">
                 Create in 3D, Earn in Real Life : Make Your Ideas Pay Off
             </x-slot>
