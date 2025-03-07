@@ -1,4 +1,4 @@
-<div id="controls-carousel bg-blue-200" class="relative w-full pt-28" data-carousel="static" data-carousel-interval="5000">
+<div id="controls-carousel bg-blue-200" class="relative w-full pt-[72px]" data-carousel="static" data-carousel-interval="5000">
     <!-- Carousel wrapper -->
     <div class="relative h-72 overflow-hidden md:h-[20rem] lg:h-[90svh]">
         <!-- Item 1 -->
@@ -10,7 +10,7 @@
                 Love creating eye-catching visuals? With Opticore Solutions Ltd., your designs don’t just impress—they make you money. Show off your talent and get paid what you truly deserve.
             </x-slot>
             <x-slot name="image">
-                <x-images.image src="{{Vite::asset('resources/images/graphic-design.gif')}}" alt="Graphic Design" class="scale-150"/>
+                <x-images.image src="{{Vite::asset('resources/images/graphic-design.gif')}}" alt="Graphic Design" class="scale-125 xl:scale-150"/>
             </x-slot>
         </x-carousel.itemType01>
         <!-- Item 2 -->
