@@ -9,9 +9,9 @@
                         <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
                             <img src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e" alt="Sarah Johnson" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
                         </div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">Sarah Johnson</h3>
-                        <p class="text-indigo-600 font-medium mb-3">Lead Product Designer</p>
-                        <p class="text-gray-600">Over 8 years of experience in UX/UI design, specializing in user-centered design approaches and design systems.</p>
+                        <h3 class="text-xl font-bold text-gray-900 mb-2">Md. Asaduzzaman</h3>
+                        <p class="text-indigo-600 font-medium mb-3">Managing Director</p>
+                        <p class="text-gray-600">lorem ipsum details....</p>
                     </div>
                 </div>
 
@@ -20,9 +20,9 @@
                         <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
                             <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a" alt="Michael Chen" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
                         </div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">Michael Chen</h3>
-                        <p class="text-indigo-600 font-medium mb-3">Senior Developer</p>
-                        <p class="text-gray-600">Full-stack developer with expertise in React and Node.js. Passionate about creating scalable solutions.</p>
+                        <h3 class="text-xl font-bold text-gray-900 mb-2">Md. Morshed Alam</h3>
+                        <p class="text-indigo-600 font-medium mb-3">Head of Operations</p>
+                        <p class="text-gray-600">Lorem ipsum details....</p>
                     </div>
                 </div>
 
@@ -31,9 +31,9 @@
                         <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
                             <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2" alt="Emma Wilson" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
                         </div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">Emma Wilson</h3>
-                        <p class="text-indigo-600 font-medium mb-3">Product Manager</p>
-                        <p class="text-gray-600">Strategic product leader with experience in launching successful digital products and leading cross-functional teams.</p>
+                        <h3 class="text-xl font-bold text-gray-900 mb-2">Rashed Bishal</h3>
+                        <p class="text-indigo-600 font-medium mb-3">Lead Web Developer</p>
+                        <p class="text-gray-600">Lorem ipsum details....</p>
                     </div>
                 </div>
                 <div class="flex-none w-full md:w-1/2 lg:w-1/3 px-4">
@@ -41,9 +41,9 @@
                         <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
                             <img src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e" alt="Sarah Johnson" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
                         </div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">Sarah Johnson</h3>
-                        <p class="text-indigo-600 font-medium mb-3">Lead Product Designer</p>
-                        <p class="text-gray-600">Over 8 years of experience in UX/UI design, specializing in user-centered design approaches and design systems.</p>
+                        <h3 class="text-xl font-bold text-gray-900 mb-2">Nooren Fahad Norose</h3>
+                        <p class="text-indigo-600 font-medium mb-3">Lead Video Editor</p>
+                        <p class="text-gray-600">Lorem ipsum details....</p>
                     </div>
                 </div>
 
@@ -52,9 +52,9 @@
                         <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
                             <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a" alt="Michael Chen" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
                         </div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">Michael Chen</h3>
-                        <p class="text-indigo-600 font-medium mb-3">Senior Developer</p>
-                        <p class="text-gray-600">Full-stack developer with expertise in React and Node.js. Passionate about creating scalable solutions.</p>
+                        <h3 class="text-xl font-bold text-gray-900 mb-2">Mohammad Shamim</h3>
+                        <p class="text-indigo-600 font-medium mb-3">Lead Graphic Designer</p>
+                        <p class="text-gray-600">Lorem ipsum details....</p>
                     </div>
                 </div>
 
@@ -63,9 +63,9 @@
                         <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
                             <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2" alt="Emma Wilson" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
                         </div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">Emma Wilson</h3>
-                        <p class="text-indigo-600 font-medium mb-3">Product Manager</p>
-                        <p class="text-gray-600">Strategic product leader with experience in launching successful digital products and leading cross-functional teams.</p>
+                        <h3 class="text-xl font-bold text-gray-900 mb-2">Md. Kawsar Hossain</h3>
+                        <p class="text-indigo-600 font-medium mb-3">Business Developer</p>
+                        <p class="text-gray-600">Lorem ipsum details....</p>
                     </div>
                 </div>
                 <div class="flex-none w-full md:w-1/2 lg:w-1/3 px-4">
@@ -73,9 +73,9 @@
                         <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
                             <img src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e" alt="Sarah Johnson" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
                         </div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">Sarah Johnson</h3>
-                        <p class="text-indigo-600 font-medium mb-3">Lead Product Designer</p>
-                        <p class="text-gray-600">Over 8 years of experience in UX/UI design, specializing in user-centered design approaches and design systems.</p>
+                        <h3 class="text-xl font-bold text-gray-900 mb-2">Md. Bulbul Sorker</h3>
+                        <p class="text-indigo-600 font-medium mb-3">Business Developer</p>
+                        <p class="text-gray-600">Lorem ipsum details....</p>
                     </div>
                 </div>
 
@@ -84,22 +84,12 @@
                         <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
                             <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a" alt="Michael Chen" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
                         </div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">Michael Chen</h3>
-                        <p class="text-indigo-600 font-medium mb-3">Senior Developer</p>
-                        <p class="text-gray-600">Full-stack developer with expertise in React and Node.js. Passionate about creating scalable solutions.</p>
+                        <h3 class="text-xl font-bold text-gray-900 mb-2">Sabbin Islam Shojib</h3>
+                        <p class="text-indigo-600 font-medium mb-3">Digital Marketer</p>
+                        <p class="text-gray-600">Lorem ipsum details....</p>
                     </div>
                 </div>
 
-                <div class="flex-none w-full md:w-1/2 lg:w-1/3 px-4">
-                    <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-[1.02] p-6">
-                        <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
-                            <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2" alt="Emma Wilson" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
-                        </div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">Emma Wilson</h3>
-                        <p class="text-indigo-600 font-medium mb-3">Product Manager</p>
-                        <p class="text-gray-600">Strategic product leader with experience in launching successful digital products and leading cross-functional teams.</p>
-                    </div>
-                </div>
             </div>
 
             <button id="team-prev" aria-label="Previous slide" class="absolute left-4 top-1/2 -translate-y-1/2 bg-white p-3 rounded-full shadow-lg hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all duration-200" onclick="slide('prev')">

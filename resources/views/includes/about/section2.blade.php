@@ -12,7 +12,7 @@
                     vision into reality.</p>
             </div>
             <div class="relative">
-                <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c" alt="Team Collaboration" class="rounded-lg shadow-xl">
+                <img src="{{Vite::asset('resources/images/who.jpeg')}}" alt="Team Collaboration" class="rounded-lg shadow-xl">
             </div>
         </div>
     </div>
