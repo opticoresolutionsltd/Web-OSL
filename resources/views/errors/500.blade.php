@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('title')
-    <x-titles.title>404 Page Not Found - {{config('opticore.brand_name_absolute')}}</x-titles.title>
+    <x-titles.title>500 Internal Server Error - {{config('opticore.brand_name_absolute')}}</x-titles.title>
 @endsection
 @section('meta-tags')
     <meta name="description" content="Opticore Solution Ltd. - Your one-stop solution for digital marketing, web development, graphic design, video editing, and 3D production. Elevate your brand today!">
@@ -24,12 +24,7 @@
 @section('container')
     <body lang="en">
     @include('includes.basic.header')
-    @include('includes.errors.section-400')
+    @include('includes.errors.section-500')
     @include('includes.message.float-icon');
     @include('includes.basic.footer')
-    <script>
-        setTimeout(()=>{
-            window.location.href = "{{route('home')}}"
-        }, 10000);
-    </script>
 @endsection

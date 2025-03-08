@@ -8,8 +8,3 @@
         </div>
     </div>
 </section>
-<script>
-    setTimeout(()=>{
-        window.location.href = "{{route('home')}}"
-    }, 10000);
-</script>
