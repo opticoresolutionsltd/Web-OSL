@@ -4,21 +4,11 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div class="relative overflow-hidden">
             <div class="flex transition-transform duration-300 ease-in-out transform translate-x-0" id="carousel">
-                <div class="flex-none w-full md:w-1/2 lg:w-1/3 px-4">
-                    <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-[1.02] p-6">
-                        <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
-                            <img src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e" alt="Sarah Johnson" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
-                        </div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">Md. Asaduzzaman</h3>
-                        <p class="text-indigo-600 font-medium mb-3">Managing Director</p>
-                        <p class="text-gray-600">lorem ipsum details....</p>
-                    </div>
-                </div>
 
                 <div class="flex-none w-full md:w-1/2 lg:w-1/3 px-4">
                     <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-[1.02] p-6">
                         <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
-                            <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a" alt="Michael Chen" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
+                            <img src="{{Vite::asset('resources/images/team/2.jpg')}}" alt="Michael Chen" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
                         </div>
                         <h3 class="text-xl font-bold text-gray-900 mb-2">Md. Morshed Alam</h3>
                         <p class="text-indigo-600 font-medium mb-3">Head of Operations</p>
@@ -29,7 +19,29 @@
                 <div class="flex-none w-full md:w-1/2 lg:w-1/3 px-4">
                     <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-[1.02] p-6">
                         <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
-                            <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2" alt="Emma Wilson" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
+                            <img src="{{Vite::asset('resources/images/team/7.jpg')}}" alt="Sarah Johnson" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
+                        </div>
+                        <h3 class="text-xl font-bold text-gray-900 mb-2">Md. Bulbul Sorker</h3>
+                        <p class="text-indigo-600 font-medium mb-3">Manager</p>
+                        <p class="text-gray-600">Lorem ipsum details....</p>
+                    </div>
+                </div>
+
+                <div class="flex-none w-full md:w-1/2 lg:w-1/3 px-4">
+                    <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-[1.02] p-6">
+                        <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
+                            <img src="{{Vite::asset('resources/images/team/6.jpg')}}" alt="Emma Wilson" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
+                        </div>
+                        <h3 class="text-xl font-bold text-gray-900 mb-2">Md. Kawsar Hossain</h3>
+                        <p class="text-indigo-600 font-medium mb-3">Business Developer</p>
+                        <p class="text-gray-600">Lorem ipsum details....</p>
+                    </div>
+                </div>
+
+                <div class="flex-none w-full md:w-1/2 lg:w-1/3 px-4">
+                    <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-[1.02] p-6">
+                        <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
+                            <img src="{{Vite::asset('resources/images/team/3.jpg')}}" alt="Emma Wilson" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
                         </div>
                         <h3 class="text-xl font-bold text-gray-900 mb-2">Rashed Bishal</h3>
                         <p class="text-indigo-600 font-medium mb-3">Lead Web Developer</p>
@@ -39,7 +51,7 @@
                 <div class="flex-none w-full md:w-1/2 lg:w-1/3 px-4">
                     <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-[1.02] p-6">
                         <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
-                            <img src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e" alt="Sarah Johnson" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
+                            <img src="{{Vite::asset('resources/images/team/4.jpg')}}" alt="Sarah Johnson" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
                         </div>
                         <h3 class="text-xl font-bold text-gray-900 mb-2">Nooren Fahad Norose</h3>
                         <p class="text-indigo-600 font-medium mb-3">Lead Video Editor</p>
@@ -50,7 +62,7 @@
                 <div class="flex-none w-full md:w-1/2 lg:w-1/3 px-4">
                     <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-[1.02] p-6">
                         <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
-                            <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a" alt="Michael Chen" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
+                            <img src="{{Vite::asset('resources/images/team/5.jpg')}}" alt="Michael Chen" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
                         </div>
                         <h3 class="text-xl font-bold text-gray-900 mb-2">Mohammad Shamim</h3>
                         <p class="text-indigo-600 font-medium mb-3">Lead Graphic Designer</p>
@@ -61,28 +73,7 @@
                 <div class="flex-none w-full md:w-1/2 lg:w-1/3 px-4">
                     <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-[1.02] p-6">
                         <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
-                            <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2" alt="Emma Wilson" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
-                        </div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">Md. Kawsar Hossain</h3>
-                        <p class="text-indigo-600 font-medium mb-3">Business Developer</p>
-                        <p class="text-gray-600">Lorem ipsum details....</p>
-                    </div>
-                </div>
-                <div class="flex-none w-full md:w-1/2 lg:w-1/3 px-4">
-                    <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-[1.02] p-6">
-                        <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
-                            <img src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e" alt="Sarah Johnson" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
-                        </div>
-                        <h3 class="text-xl font-bold text-gray-900 mb-2">Md. Bulbul Sorker</h3>
-                        <p class="text-indigo-600 font-medium mb-3">Business Developer</p>
-                        <p class="text-gray-600">Lorem ipsum details....</p>
-                    </div>
-                </div>
-
-                <div class="flex-none w-full md:w-1/2 lg:w-1/3 px-4">
-                    <div class="bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-200 hover:scale-[1.02] p-6">
-                        <div class="relative mb-6 overflow-hidden rounded-lg aspect-square">
-                            <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a" alt="Michael Chen" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
+                            <img src="{{Vite::asset('resources/images/team/8.jpg')}}" alt="Michael Chen" class="object-cover w-full h-full transform hover:scale-105 transition-transform duration-200 hover:grayscale-0 grayscale">
                         </div>
                         <h3 class="text-xl font-bold text-gray-900 mb-2">Sabbin Islam Shojib</h3>
                         <p class="text-indigo-600 font-medium mb-3">Digital Marketer</p>

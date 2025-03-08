@@ -34,13 +34,13 @@
 
             <div class="w-full justify-center items-start gap-8 grid sm:grid-cols-2 grid-cols-2 ">
                 <div class="pt-4 lg:justify-center sm:justify-end justify-start items-start gap-2.5 flex">
-                    <x-images.image class="rounded-xl object-cover" src="{{Vite::asset('resources/images/4422913.jpg')}}" alt="about Us image" />
+                    <x-images.image class="rounded-xl object-cover" src="{{Vite::asset('resources/images/about/about-us/growth.png')}}" alt="about Us image" />
                 </div>
-                <x-images.image class="sm:ml-0 ml-auto rounded-xl object-cover" src="{{Vite::asset('resources/images/4422913.jpg')}}" alt="about Us image"/>
+                <x-images.image class="sm:ml-0 ml-auto rounded-xl object-cover" src="{{Vite::asset('resources/images/about/about-us/financial-success.png')}}" alt="about Us image"/>
                 <div class="pt-4 lg:justify-center sm:justify-end justify-start items-start gap-2.5 flex">
-                    <x-images.image class="rounded-xl object-cover" src="{{Vite::asset('resources/images/4422913.jpg')}}" alt="about Us image"/>
+                    <x-images.image class="rounded-xl object-cover" src="{{Vite::asset('resources/images/about/about-us/earning.png')}}" alt="about Us image"/>
                 </div>
-                <x-images.image class="sm:ml-0 ml-auto rounded-xl object-cover" src="{{Vite::asset('resources/images/4422913.jpg')}}" alt="about Us image"/>
+                <x-images.image class="sm:ml-0 ml-auto rounded-xl object-cover" src="{{Vite::asset('resources/images/about/about-us/success.png')}}" alt="about Us image"/>
             </div>
 
         </div>
