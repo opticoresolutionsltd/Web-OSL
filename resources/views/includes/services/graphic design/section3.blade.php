@@ -6,48 +6,58 @@
         Discover our latest projects and success stories
     </x-slot>
     <x-slot name="imageList">
-        <a href="#"
+        <a href="{{route('portfolio.logo-identity')}}"
            class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80">
-            <img src="https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Minh Pham" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
+            <img src="{{Vite::asset('resources/images/portfolio/graphic design/thumbnail/logo-identity.jpg')}}" loading="lazy" alt="Photo by Minh Pham" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
 
             <div
                 class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50">
             </div>
 
-            <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">VR</span>
+            <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Logo & Identity</span>
         </a>
 
-        <a href="#"
+        <a href="{{route('portfolio.photoshop-editing')}}"
            class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:col-span-2 md:h-80">
-            <img src="https://images.unsplash.com/photo-1542759564-7ccbb6ac450a?auto=format&q=75&fit=crop&w=1000" loading="lazy" alt="Photo by Magicle" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
+            <img src="{{Vite::asset('resources/images/portfolio/graphic design/thumbnail/photoshop-editing.jpg')}}" loading="lazy" alt="Photo by Magicle" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
 
             <div
                 class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50">
             </div>
 
-            <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Tech</span>
+            <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Photoshop Editing</span>
         </a>
 
-        <a href="#"
+        <a href="{{route('portfolio.print-design')}}"
            class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:col-span-2 md:h-80">
-            <img src="https://images.unsplash.com/photo-1610465299996-30f240ac2b1c?auto=format&q=75&fit=crop&w=1000" loading="lazy" alt="Photo by Martin Sanchez" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
+            <img src="{{Vite::asset('resources/images/portfolio/graphic design/thumbnail/print-design.jpg')}}" loading="lazy" alt="Photo by Martin Sanchez" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
 
             <div
                 class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50">
             </div>
 
-            <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Dev</span>
+            <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Print Design</span>
         </a>
 
-        <a href="#"
+        <a href="{{route('portfolio.packaging-design')}}"
            class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80">
-            <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Lorenzo Herrera" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
+            <img src="{{Vite::asset('resources/images/portfolio/graphic design/thumbnail/packaging-design.jpg')}}" loading="lazy" alt="Photo by Lorenzo Herrera" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
 
             <div
                 class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50">
             </div>
 
-            <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Retro</span>
+            <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Packaging Design</span>
+        </a>
+        <a href="{{route('portfolio.social-media-graphics')}}"
+           class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80">
+            <img src="{{Vite::asset('resources/images/portfolio/graphic design/thumbnail/social-media-design.jpg')}}" loading="lazy" alt="Photo by Minh Pham" class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
+
+            <div
+                class="pointer-events-none absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-transparent opacity-50">
+            </div>
+
+            <span class="relative ml-4 mb-3 inline-block text-sm text-white md:ml-5 md:text-lg">Social Media Graphics</span>
         </a>
     </x-slot>
 </x-services.portfolio>

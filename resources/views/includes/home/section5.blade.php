@@ -27,6 +27,9 @@
                             <div class="logo-slide flex-shrink-0 transition-all duration-300 scale-110 hover:scale-125 filter grayscale hover:grayscale-0">
                                 <img src="{{Vite::asset('resources/images/logo/customers/hotel-jana.svg')}}" alt="Company Logo 6" class="h-24 w-auto object-contain" loading="lazy">
                             </div>
+                            <div class="logo-slide flex-shrink-0 transition-all duration-300 scale-110 hover:scale-125 filter grayscale hover:grayscale-0">
+                                <img src="{{Vite::asset('resources/images/logo/customers/pixelpulse.svg')}}" alt="Company Logo 6" class="h-24 w-auto object-contain" loading="lazy">
+                            </div>
                         @endfor
                     </div>
                 </div>
