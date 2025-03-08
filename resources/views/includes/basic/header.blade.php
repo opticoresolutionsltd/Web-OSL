@@ -3,7 +3,7 @@
         <x-hyperlinks.anchor href="{{route('home')}}" class="flex items-center space-x-3 rtl:space-x-reverse">
             <x-images.image src="{{Vite::asset('resources/images/logo/opticore-logo-full.png')}}" class="h-8 md:h-9 lg:h-10" alt="Opticore Solutions Ltd.- Logo"/>
         </x-hyperlinks.anchor>
-        <div class="flex xl:order-2 space-x-3 xl:space-x-0 rtl:space-x-reverse">
+        <div class="flex xl:order-2 space-x-3 xl:space-x-0 rtl:space-x-reverse relative group">
             <x-hyperlinks.anchor href="tel:{{config('opticore.phone_number')}}">
                 <x-buttons.button type="button" class="text-white bg-[#1B4071] hover:bg-[#2C709B] focus:ring-4 focus:outline-none focus:ring-blue-50 font-medium rounded-3xl text-sm px-4 py-2 text-center">
                     Call Us
@@ -15,6 +15,10 @@
                     <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 1h15M1 7h15M1 13h15"/>
                 </svg>
             </x-buttons.button>
+            <div class="absolute hidden group-hover:block bg-gray-800 text-white text-sm rounded py-1 px-2 z-10 "
+                 style="top: 125%; left: 50%; transform: translateX(-50%);">
+                01896204400
+            </div>
         </div>
         <div class="items-center justify-between hidden w-full xl:flex xl:w-auto xl:order-1" id="navbar-sticky">
             <ul class="flex flex-col p-4 xl:p-0 mt-4 font-medium border border-gray-100 rounded-lg bg-gray-50 xl:space-x-5 rtl:space-x-reverse xl:flex-row xl:mt-0 xl:border-0 xl:bg-white">
