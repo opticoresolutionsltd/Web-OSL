@@ -1,46 +1,37 @@
-let currentSlide = 0;
-const carousel = document.getElementById('carousel');
-const prevBtn = document.getElementById("team-prev");
-const nextBtn = document.getElementById("team-next");
-const slideCount = 3;
-window.slide = slide;
-window.goToSlide = goToSlide;
+const swiper = new Swiper('.slider-wrapper', {
+    loop: true,
+    grabCursor: true,
+    spaceBetween: 50,
+    centerSlider: true,
 
+    // If we need pagination
+    pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+        dynamicBullets: true,
+    },
 
-function slide(direction) {
-    if (direction === 'next') {
-        currentSlide = (currentSlide + 1) % slideCount;
-    } else {
-        currentSlide = (currentSlide - 1 + slideCount) % slideCount;
+    // Navigation arrows
+    navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+    },
+    // Let's Make it Autoplay
+    autoplay:{
+        delay: 4000,
+        disableOnInteraction: false
+    },
+    // Responsive
+    breakpoints: {
+        0:{
+            slidesPerView: 1
+        },
+        768:{
+            slidesPerView: 2
+        },
+        1024:{
+            slidesPerView: 3
+        }
     }
-    updateCarousel();
-}
 
-function goToSlide(index) {
-    currentSlide = index;
-    updateCarousel();
-}
-
-function updateCarousel() {
-    const offset = currentSlide * -100;
-    carousel.style.transform = `translateX(${offset}%)`;
-    updateDots();
-}
-
-function updateDots() {
-    const dots = document.querySelectorAll('.team-nav-dot');
-    dots.forEach((dot, index) => {
-        dot.classList.toggle('bg-indigo-600', index === currentSlide);
-        dot.classList.toggle('bg-gray-300', index !== currentSlide);
-    });
-}
-
-setInterval(() => slide('next'), 5000);
-
-document.addEventListener('keydown', (e) => {
-    if (e.key === 'ArrowLeft') slide('prev');
-    if (e.key === 'ArrowRight') slide('next');
 });
-
-
-

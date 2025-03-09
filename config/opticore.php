@@ -13,6 +13,7 @@ return [
         'pinterest' => 'https://www.pinterest.com/opticoresolutionsltd',
         'instagram' => 'https://www.instagram.com/opticoresolutionsltd',
         'linkedin' => 'https://www.linkedin.com/in/opticoresolutionsltd',
+        'tiktok' => 'https://www.tiktok.com/@opticoresolutionsltd',
         'messenger' => 'https://m.me/opticoresolutionsltd',
         'whatsapp' => 'https://wa.me/8801896204400',
     ],

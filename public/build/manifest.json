@@ -1,6 +1,6 @@
 {
   "resources/css/app.css": {
-    "file": "assets/app-CQjJxUiU.css",
+    "file": "assets/app-D6EB6mmX.css",
     "src": "resources/css/app.css",
     "isEntry": true
   },
@@ -14,10 +14,6 @@
     "src": "resources/css/services/app.css",
     "isEntry": true
   },
-  "resources/images/3d-editing.gif": {
-    "file": "assets/3d-editing-BX4j6yPl.gif",
-    "src": "resources/images/3d-editing.gif"
-  },
   "resources/images/4280794.jpg": {
     "file": "assets/4280794-DKDbrX_C.jpg",
     "src": "resources/images/4280794.jpg"
@@ -30,13 +26,29 @@
     "file": "assets/59361-BWK31-hF.jpg",
     "src": "resources/images/59361.jpg"
   },
-  "resources/images/TEST.gif": {
-    "file": "assets/TEST-BpO0Zypx.gif",
-    "src": "resources/images/TEST.gif"
+  "resources/images/about/about-company.png": {
+    "file": "assets/about-company-Ch_ltDD4.png",
+    "src": "resources/images/about/about-company.png"
   },
-  "resources/images/about-us.png": {
-    "file": "assets/about-us-4p-SBcg9.png",
-    "src": "resources/images/about-us.png"
+  "resources/images/about/about-our-members.png": {
+    "file": "assets/about-our-members-D2MFvSS8.png",
+    "src": "resources/images/about/about-our-members.png"
+  },
+  "resources/images/about/about-us/earning.png": {
+    "file": "assets/earning-CUV_Rc9X.png",
+    "src": "resources/images/about/about-us/earning.png"
+  },
+  "resources/images/about/about-us/financial-success.png": {
+    "file": "assets/financial-success-Dtyn-q2V.png",
+    "src": "resources/images/about/about-us/financial-success.png"
+  },
+  "resources/images/about/about-us/growth.png": {
+    "file": "assets/growth-BNe1hsXD.png",
+    "src": "resources/images/about/about-us/growth.png"
+  },
+  "resources/images/about/about-us/success.png": {
+    "file": "assets/success-06Yd70sg.png",
+    "src": "resources/images/about/about-us/success.png"
   },
   "resources/images/about/choose/commitment-quality.svg": {
     "file": "assets/commitment-quality-CPfeL33M.svg",
@@ -78,6 +90,10 @@
     "file": "assets/integrity-gGXakGC1.svg",
     "src": "resources/images/about/values/integrity.svg"
   },
+  "resources/images/carousel/3d-editing.gif": {
+    "file": "assets/3d-editing-BX4j6yPl.gif",
+    "src": "resources/images/carousel/3d-editing.gif"
+  },
   "resources/images/carousel/digital-marketing.gif": {
     "file": "assets/digital-marketing-6BsLkiZa.gif",
     "src": "resources/images/carousel/digital-marketing.gif"
@@ -86,25 +102,29 @@
     "file": "assets/graphic-design-C6QxaB5Z.gif",
     "src": "resources/images/carousel/graphic-design.gif"
   },
-  "resources/images/digital-marketing.gif": {
-    "file": "assets/digital-marketing-6BsLkiZa.gif",
-    "src": "resources/images/carousel/digital-marketing.gif"
+  "resources/images/carousel/video-editing.gif": {
+    "file": "assets/video-editing-CfXkJ1eR.gif",
+    "src": "resources/images/carousel/video-editing.gif"
+  },
+  "resources/images/carousel/website-development.gif": {
+    "file": "assets/website-development-2OyZS87j.gif",
+    "src": "resources/images/carousel/website-development.gif"
+  },
+  "resources/images/errors/404.png": {
+    "file": "assets/404-DWvup2m6.png",
+    "src": "resources/images/errors/404.png"
+  },
+  "resources/images/errors/500.png": {
+    "file": "assets/500-BofabHab.png",
+    "src": "resources/images/errors/500.png"
+  },
+  "resources/images/errors/503.png": {
+    "file": "assets/503-CFTrlzJ-.png",
+    "src": "resources/images/errors/503.png"
   },
   "resources/images/favicon/Opticore Solutions Ltd.ico": {
     "file": "assets/Opticore Solutions Ltd-CAhtHaOw.ico",
     "src": "resources/images/favicon/Opticore Solutions Ltd.ico"
-  },
-  "resources/images/five.jpg": {
-    "file": "assets/five-5n8_uTzp.jpg",
-    "src": "resources/images/five.jpg"
-  },
-  "resources/images/g.png": {
-    "file": "assets/g-yiT-CIR3.png",
-    "src": "resources/images/g.png"
-  },
-  "resources/images/graphic-design.gif": {
-    "file": "assets/graphic-design-C6QxaB5Z.gif",
-    "src": "resources/images/carousel/graphic-design.gif"
   },
   "resources/images/logo/customers/alliance-beverage-agro.svg": {
     "file": "assets/alliance-beverage-agro-DVU3z4up.svg",
@@ -130,6 +150,10 @@
     "file": "assets/hotel-jana-BCQtoNM6.svg",
     "src": "resources/images/logo/customers/hotel-jana.svg"
   },
+  "resources/images/logo/customers/pixelpulse.svg": {
+    "file": "assets/pixelpulse-D4X_mDxp.svg",
+    "src": "resources/images/logo/customers/pixelpulse.svg"
+  },
   "resources/images/logo/opticore-logo-alt.png": {
     "file": "assets/opticore-logo-alt-CcXdVNXf.png",
     "src": "resources/images/logo/opticore-logo-alt.png"
@@ -137,6 +161,298 @@
   "resources/images/logo/opticore-logo-full.png": {
     "file": "assets/opticore-logo-full-udTpPdhm.png",
     "src": "resources/images/logo/opticore-logo-full.png"
+  },
+  "resources/images/portfolio/graphic design/logo identity/crunch-rush-1.png": {
+    "file": "assets/crunch-rush-1-CXar2WQR.png",
+    "src": "resources/images/portfolio/graphic design/logo identity/crunch-rush-1.png"
+  },
+  "resources/images/portfolio/graphic design/logo identity/crunch-rush-2.jpg": {
+    "file": "assets/crunch-rush-2-CY2FTAEe.jpg",
+    "src": "resources/images/portfolio/graphic design/logo identity/crunch-rush-2.jpg"
+  },
+  "resources/images/portfolio/graphic design/logo identity/embossed.jpg": {
+    "file": "assets/embossed-CXMI8pm0.jpg",
+    "src": "resources/images/portfolio/graphic design/logo identity/embossed.jpg"
+  },
+  "resources/images/portfolio/graphic design/logo identity/id-card-landscape.jpg": {
+    "file": "assets/id-card-landscape-CnkzToC7.jpg",
+    "src": "resources/images/portfolio/graphic design/logo identity/id-card-landscape.jpg"
+  },
+  "resources/images/portfolio/graphic design/logo identity/id-card-portrait.jpg": {
+    "file": "assets/id-card-portrait-DMcaxiJQ.jpg",
+    "src": "resources/images/portfolio/graphic design/logo identity/id-card-portrait.jpg"
+  },
+  "resources/images/portfolio/graphic design/logo identity/minimal-run-1.jpg": {
+    "file": "assets/minimal-run-1-B-kPvWHm.jpg",
+    "src": "resources/images/portfolio/graphic design/logo identity/minimal-run-1.jpg"
+  },
+  "resources/images/portfolio/graphic design/logo identity/minimal-run-2.jpg": {
+    "file": "assets/minimal-run-2-DtpgJH2d.jpg",
+    "src": "resources/images/portfolio/graphic design/logo identity/minimal-run-2.jpg"
+  },
+  "resources/images/portfolio/graphic design/logo identity/monogram-1.jpg": {
+    "file": "assets/monogram-1-BLbhJVcs.jpg",
+    "src": "resources/images/portfolio/graphic design/logo identity/monogram-1.jpg"
+  },
+  "resources/images/portfolio/graphic design/logo identity/monogram-2.jpg": {
+    "file": "assets/monogram-2-BVwlR-R8.jpg",
+    "src": "resources/images/portfolio/graphic design/logo identity/monogram-2.jpg"
+  },
+  "resources/images/portfolio/graphic design/logo identity/typography-1.jpg": {
+    "file": "assets/typography-1-DUI0yPQN.jpg",
+    "src": "resources/images/portfolio/graphic design/logo identity/typography-1.jpg"
+  },
+  "resources/images/portfolio/graphic design/logo identity/typography-2.jpg": {
+    "file": "assets/typography-2-ByLXeuF0.jpg",
+    "src": "resources/images/portfolio/graphic design/logo identity/typography-2.jpg"
+  },
+  "resources/images/portfolio/graphic design/packaging design/mockup-1.jpg": {
+    "file": "assets/mockup-1-CPXOBylV.jpg",
+    "src": "resources/images/portfolio/graphic design/packaging design/mockup-1.jpg"
+  },
+  "resources/images/portfolio/graphic design/packaging design/mockup-2.png": {
+    "file": "assets/mockup-2-CwoIna7Q.png",
+    "src": "resources/images/portfolio/graphic design/packaging design/mockup-2.png"
+  },
+  "resources/images/portfolio/graphic design/packaging design/mockup-3.jpg": {
+    "file": "assets/mockup-3-BP14w7pX.jpg",
+    "src": "resources/images/portfolio/graphic design/packaging design/mockup-3.jpg"
+  },
+  "resources/images/portfolio/graphic design/packaging design/mockup-4.jpg": {
+    "file": "assets/mockup-4-D7FTQKq9.jpg",
+    "src": "resources/images/portfolio/graphic design/packaging design/mockup-4.jpg"
+  },
+  "resources/images/portfolio/graphic design/packaging design/mockup-5.png": {
+    "file": "assets/mockup-5-Csm9ZFWG.png",
+    "src": "resources/images/portfolio/graphic design/packaging design/mockup-5.png"
+  },
+  "resources/images/portfolio/graphic design/packaging design/mockup-6.png": {
+    "file": "assets/mockup-6-KlcgT-CB.png",
+    "src": "resources/images/portfolio/graphic design/packaging design/mockup-6.png"
+  },
+  "resources/images/portfolio/graphic design/packaging design/mockup-7.jpg": {
+    "file": "assets/mockup-7-6frKmBFq.jpg",
+    "src": "resources/images/portfolio/graphic design/packaging design/mockup-7.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/bg-remove-bag.jpg": {
+    "file": "assets/bg-remove-bag-BMHSH-yL.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/bg-remove-bag.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/bg-remove-camera.jpg": {
+    "file": "assets/bg-remove-camera-VP_zCV4_.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/bg-remove-camera.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/bg-remove-glass.jpg": {
+    "file": "assets/bg-remove-glass-H03xvSph.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/bg-remove-glass.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/bg-remove-shoe.jpg": {
+    "file": "assets/bg-remove-shoe-DzNFcob9.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/bg-remove-shoe.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/bg-remove-watch.jpg": {
+    "file": "assets/bg-remove-watch-Dfq-if3X.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/bg-remove-watch.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/city-night-1.jpg": {
+    "file": "assets/city-night-1-YgV8_nz_.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/city-night-1.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/city-night-2.jpg": {
+    "file": "assets/city-night-2-KTrTRhna.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/city-night-2.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/city-night-3.jpg": {
+    "file": "assets/city-night-3-DQXU3YEu.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/city-night-3.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/color-change-car.jpg": {
+    "file": "assets/color-change-car-Jf3tGHVD.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/color-change-car.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/color-change-ladies-cloth-alt.jpg": {
+    "file": "assets/color-change-ladies-cloth-alt-C504jRhM.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/color-change-ladies-cloth-alt.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/color-change-ladies-cloth.jpg": {
+    "file": "assets/color-change-ladies-cloth-CgcUzr1-.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/color-change-ladies-cloth.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/dark-mode-car.jpg": {
+    "file": "assets/dark-mode-car-Dc1u13H5.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/dark-mode-car.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/dark-mode-city-car.jpg": {
+    "file": "assets/dark-mode-city-car-DT6xiqcI.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/dark-mode-city-car.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/dark-mode-city.jpg": {
+    "file": "assets/dark-mode-city-JUOz_J8f.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/dark-mode-city.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/wedding-color-correction-1.jpg": {
+    "file": "assets/wedding-color-correction-1-BqUntduC.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/wedding-color-correction-1.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/wedding-color-correction-2.jpg": {
+    "file": "assets/wedding-color-correction-2-GnWOIC7K.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/wedding-color-correction-2.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/wedding-color-correction-3.jpg": {
+    "file": "assets/wedding-color-correction-3-icDM43ax.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/wedding-color-correction-3.jpg"
+  },
+  "resources/images/portfolio/graphic design/photoshop editing/wedding-color-correction-4.jpg": {
+    "file": "assets/wedding-color-correction-4-B3V1MJIE.jpg",
+    "src": "resources/images/portfolio/graphic design/photoshop editing/wedding-color-correction-4.jpg"
+  },
+  "resources/images/portfolio/graphic design/print design/brochure-1.jpg": {
+    "file": "assets/brochure-1-mTgjPn8C.jpg",
+    "src": "resources/images/portfolio/graphic design/print design/brochure-1.jpg"
+  },
+  "resources/images/portfolio/graphic design/print design/brochure-2.jpg": {
+    "file": "assets/brochure-2-BD049aXo.jpg",
+    "src": "resources/images/portfolio/graphic design/print design/brochure-2.jpg"
+  },
+  "resources/images/portfolio/graphic design/print design/business-card.jpg": {
+    "file": "assets/business-card-DTDYL_th.jpg",
+    "src": "resources/images/portfolio/graphic design/print design/business-card.jpg"
+  },
+  "resources/images/portfolio/graphic design/print design/flyer-1.jpg": {
+    "file": "assets/flyer-1-D7etBvPc.jpg",
+    "src": "resources/images/portfolio/graphic design/print design/flyer-1.jpg"
+  },
+  "resources/images/portfolio/graphic design/print design/flyer-2.jpg": {
+    "file": "assets/flyer-2-DYnAQjiz.jpg",
+    "src": "resources/images/portfolio/graphic design/print design/flyer-2.jpg"
+  },
+  "resources/images/portfolio/graphic design/print design/flyer-3.jpg": {
+    "file": "assets/flyer-3-qERY_XRi.jpg",
+    "src": "resources/images/portfolio/graphic design/print design/flyer-3.jpg"
+  },
+  "resources/images/portfolio/graphic design/print design/flyer-4.jpg": {
+    "file": "assets/flyer-4-D5ZLLsrH.jpg",
+    "src": "resources/images/portfolio/graphic design/print design/flyer-4.jpg"
+  },
+  "resources/images/portfolio/graphic design/print design/tshirt-illustration-1.jpg": {
+    "file": "assets/tshirt-illustration-1-B5rRsjAx.jpg",
+    "src": "resources/images/portfolio/graphic design/print design/tshirt-illustration-1.jpg"
+  },
+  "resources/images/portfolio/graphic design/print design/tshirt-illustration-2.jpg": {
+    "file": "assets/tshirt-illustration-2-B_uCoC6S.jpg",
+    "src": "resources/images/portfolio/graphic design/print design/tshirt-illustration-2.jpg"
+  },
+  "resources/images/portfolio/graphic design/print design/tshirt-illustration-3.jpg": {
+    "file": "assets/tshirt-illustration-3-DxUGYecl.jpg",
+    "src": "resources/images/portfolio/graphic design/print design/tshirt-illustration-3.jpg"
+  },
+  "resources/images/portfolio/graphic design/print design/tshirt-typography-1.jpg": {
+    "file": "assets/tshirt-typography-1-_Yar0Lg2.jpg",
+    "src": "resources/images/portfolio/graphic design/print design/tshirt-typography-1.jpg"
+  },
+  "resources/images/portfolio/graphic design/print design/tshirt-typography-2.jpg": {
+    "file": "assets/tshirt-typography-2-B-r8yM8o.jpg",
+    "src": "resources/images/portfolio/graphic design/print design/tshirt-typography-2.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/1.jpg": {
+    "file": "assets/1-CnRfHNQG.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/1.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/10.jpg": {
+    "file": "assets/10-HLv2WLTq.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/10.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/11.jpg": {
+    "file": "assets/11-DXNmFUvA.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/11.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/12.jpg": {
+    "file": "assets/12-CA6PJ_ah.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/12.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/13.jpg": {
+    "file": "assets/13-DrWzMx7i.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/13.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/14.jpg": {
+    "file": "assets/14-32ZCv03i.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/14.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/15.jpg": {
+    "file": "assets/14-32ZCv03i.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/14.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/16.jpg": {
+    "file": "assets/16-DU5z4e5B.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/16.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/17.jpg": {
+    "file": "assets/13-DrWzMx7i.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/13.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/18.jpg": {
+    "file": "assets/18-mD-Pvry_.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/18.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/19.jpg": {
+    "file": "assets/19-DZSX1-21.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/19.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/2.jpg": {
+    "file": "assets/2-DU1GXFp0.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/2.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/20.jpg": {
+    "file": "assets/20-yi8WANgM.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/20.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/3.jpg": {
+    "file": "assets/3-Cn0yaIeG.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/3.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/4.jpg": {
+    "file": "assets/4-BgvaI4yE.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/4.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/5.jpg": {
+    "file": "assets/5-CvDugDRN.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/5.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/6.jpg": {
+    "file": "assets/6-D6PrakKj.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/6.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/7.jpg": {
+    "file": "assets/7-Cx4pvRls.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/7.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/8.jpg": {
+    "file": "assets/8-BVW7FABn.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/8.jpg"
+  },
+  "resources/images/portfolio/graphic design/social media graphics/9.jpg": {
+    "file": "assets/9-B4SehRNO.jpg",
+    "src": "resources/images/portfolio/graphic design/social media graphics/9.jpg"
+  },
+  "resources/images/portfolio/graphic design/thumbnail/logo-identity.jpg": {
+    "file": "assets/logo-identity-Bfnifcbu.jpg",
+    "src": "resources/images/portfolio/graphic design/thumbnail/logo-identity.jpg"
+  },
+  "resources/images/portfolio/graphic design/thumbnail/packaging-design.jpg": {
+    "file": "assets/packaging-design-iffhXCrk.jpg",
+    "src": "resources/images/portfolio/graphic design/thumbnail/packaging-design.jpg"
+  },
+  "resources/images/portfolio/graphic design/thumbnail/photoshop-editing.jpg": {
+    "file": "assets/photoshop-editing-C6Z3Zy2F.jpg",
+    "src": "resources/images/portfolio/graphic design/thumbnail/photoshop-editing.jpg"
+  },
+  "resources/images/portfolio/graphic design/thumbnail/print-design.jpg": {
+    "file": "assets/print-design-G5OnF7I7.jpg",
+    "src": "resources/images/portfolio/graphic design/thumbnail/print-design.jpg"
+  },
+  "resources/images/portfolio/graphic design/thumbnail/social-media-design.jpg": {
+    "file": "assets/social-media-design-jXEx6paT.jpg",
+    "src": "resources/images/portfolio/graphic design/thumbnail/social-media-design.jpg"
   },
   "resources/images/services/3d production/3d-printing.png": {
     "file": "assets/3d-printing-CgXlf23o.png",
@@ -274,17 +590,41 @@
     "file": "assets/website-maintenace-DCP5nUpi.png",
     "src": "resources/images/services/web development/website-maintenace.png"
   },
-  "resources/images/team.jpg": {
-    "file": "assets/team-adxniE6_.jpg",
-    "src": "resources/images/team.jpg"
+  "resources/images/team/1.jpg": {
+    "file": "assets/1-DIIuwjkt.jpg",
+    "src": "resources/images/team/1.jpg"
   },
-  "resources/images/video-editing.gif": {
-    "file": "assets/video-editing-CfXkJ1eR.gif",
-    "src": "resources/images/video-editing.gif"
+  "resources/images/team/2.jpg": {
+    "file": "assets/2-DviydhLr.jpg",
+    "src": "resources/images/team/2.jpg"
   },
-  "resources/images/website-development.gif": {
-    "file": "assets/website-development-2OyZS87j.gif",
-    "src": "resources/images/website-development.gif"
+  "resources/images/team/3.jpg": {
+    "file": "assets/3-hf9gSxqQ.jpg",
+    "src": "resources/images/team/3.jpg"
+  },
+  "resources/images/team/4.jpg": {
+    "file": "assets/4-3bOgtreb.jpg",
+    "src": "resources/images/team/4.jpg"
+  },
+  "resources/images/team/5.jpg": {
+    "file": "assets/5-DlSzHXpH.jpg",
+    "src": "resources/images/team/5.jpg"
+  },
+  "resources/images/team/6.jpg": {
+    "file": "assets/6-bbUcvCrL.jpg",
+    "src": "resources/images/team/6.jpg"
+  },
+  "resources/images/team/7.jpg": {
+    "file": "assets/7-yaGiYMdQ.jpg",
+    "src": "resources/images/team/7.jpg"
+  },
+  "resources/images/team/8.jpg": {
+    "file": "assets/8-DeG0iqyd.jpg",
+    "src": "resources/images/team/8.jpg"
+  },
+  "resources/images/team/9.jpg": {
+    "file": "assets/9-DrnhzLDa.jpg",
+    "src": "resources/images/team/9.jpg"
   },
   "resources/js/app.js": {
     "file": "assets/app-Cv_1mocD.js",
