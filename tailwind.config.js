@@ -15,6 +15,12 @@ export default {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
+
+            colors: {
+                opticore : '#1B4071',
+                opticoreAlt : '#2C709B',
+            },
+
         },
     },
     plugins: [],

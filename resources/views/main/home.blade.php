@@ -20,8 +20,21 @@
     <meta name="twitter:image" content="">
     <meta name="twitter:image:alt" content="{{config('opticore.brand_name')}}">
     <meta name="twitter:creator" content="@osl_opticore">
+    <style>
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .animate-spin {
+            animation: spin 1s linear infinite;
+        }
+    </style>
 @endsection
 @section('container')<body lang="en">
+
+
+
         @include('includes.basic.header')
         @include('includes.home.section1')
         @include('includes.home.section2')
@@ -30,4 +43,15 @@
         @include('includes.home.section5')
         @include('includes.message.float-icon')
         @include('includes.basic.footer')
+<script>
+    window.addEventListener('load', function() {
+        setTimeout(function() {
+            document.getElementById('preloader').style.opacity = '0';
+            document.getElementById('content').style.opacity = '1';
+            setTimeout(function() {
+                document.getElementById('preloader').style.display = 'none';
+            }, 500);
+        }, 2500);
+    });
+</script>
 @endsection
